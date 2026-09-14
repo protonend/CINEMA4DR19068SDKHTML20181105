@@ -1,0 +1,36 @@
+var c4d__tooldata_8h =
+[
+    [ "ControlDisplayStruct", "struct_control_display_struct.html", "struct_control_display_struct" ],
+    [ "EditorWindow", "class_editor_window.html", "class_editor_window" ],
+    [ "ToolData", "class_tool_data.html", "class_tool_data" ],
+    [ "PLUGINFLAG_TOOL_EVALUATEHANDLES", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga91f89af074975590918542d00d573023", null ],
+    [ "PLUGINFLAG_TOOL_DRAW_MULTIPLANE", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#gabe7b58cbf6f1384a709e03b39dbe3675", null ],
+    [ "PLUGINFLAG_TOOL_TWEAK", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga5f49d3d9475b5503cd78200b2c18af6a", null ],
+    [ "PLUGINFLAG_TOOL_HIGHLIGHT", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga8f7c2e15c5bb4d58bb865f1c98505b04", null ],
+    [ "PLUGINFLAG_TOOL_EDITSTATES", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga1007ae190948acd35f0406f3cf1596b6", null ],
+    [ "PLUGINFLAG_TOOL_SNAPSETTINGS", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#gaa42fcdae27372294563cdcc3bdd6c4c2", null ],
+    [ "PLUGINFLAG_TOOL_SINGLECLICK", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga77b63359c42658c3fc486e2cd839407a", null ],
+    [ "PLUGINFLAG_TOOL_TWEAK_NO_HIGHLIGHT", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga9c556c2e70458a9f0539afffeb9d54c7", null ],
+    [ "PLUGINFLAG_TOOL_NO_WIREFRAME", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#gaf5d1813db92410e234771d3b184f2408", null ],
+    [ "PLUGINFLAG_TOOL_SCULPTBRUSH", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#ga9d86da08617a91e9d49fb889e5e1d49a", null ],
+    [ "PLUGINFLAG_TOOL_NO_OBJECTOUTLINE", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#gad3bbc9e1e630b906b64b5b5f11c6f708", null ],
+    [ "PLUGINFLAG_TOOL_OBJECTHIGHLIGHT", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#gaaa2ec397f146b632386f89dc5dea2cc3", null ],
+    [ "PLUGINFLAG_TOOL_SWITCHACTION", "group___p_l_u_g_i_n_f_l_a_g___t_o_o_l.html#gaf241cc525172bb7a9bf8120624c51c74", null ],
+    [ "VERTEXCOLOR_DISPLAYMODE", "c4d__tooldata_8h.html#a7d86210d4583bd12f039741c49716dcb", [
+      [ "NONE", "c4d__tooldata_8h.html#a7d86210d4583bd12f039741c49716dcbab50339a10e1de285ac99d4c3990b8693", null ],
+      [ "COLOR", "c4d__tooldata_8h.html#a7d86210d4583bd12f039741c49716dcba04bd834032febb3fda8c6936ee140949", null ],
+      [ "ALPHA", "c4d__tooldata_8h.html#a7d86210d4583bd12f039741c49716dcba002101f8725e5c78d9f30d87f3fa4c87", null ]
+    ] ],
+    [ "PENPRESSURE", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01dae52971dfc1614b781e5c7c29c0df9a78", null ],
+    [ "PENTILT", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da44eb6cf2dce5d2c4d6331b9b9980a424", null ],
+    [ "PENROTATION", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da7727c8c1077917568926afeca5d71311", null ],
+    [ "PENDRAWROTATION", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da2dc8e623c998908745dd255fceb6ab36", null ],
+    [ "PENDRAWRANDOMNESS", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da08a5af2a481415ba8f0b9b49098d3576", null ],
+    [ "PENDRAWWHEELROTATION", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da5042f6ad8f29d2c52efaf7ac0ea67fb7", null ],
+    [ "PENDRAWWHEELPRESSURE", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da485847717169ac75a40a5aaf9c6e67fc", null ],
+    [ "PENDRAWDISTANCE", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da1d9051799ad94ba6b6f69f11c1d254ce", null ],
+    [ "PENFINGERWHEEL", "group___p_e_n.html#ggac9420823bfeba78fce625fc105e3b01da41a521e723696099d59e422751860e67", null ],
+    [ "GetToolData", "c4d__tooldata_8h.html#a83e23daa7519b48f0c48e63574250eff", null ],
+    [ "GetToolScale", "c4d__tooldata_8h.html#a84c015a4aaf37e6db746abf35c50aacb", null ],
+    [ "RegisterToolPlugin", "c4d__tooldata_8h.html#a639eae701a2fff2f93bd9635257cf7d7", null ]
+];

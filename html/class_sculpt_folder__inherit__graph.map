@@ -1,0 +1,7 @@
+<map id="SculptFolder" name="SculptFolder">
+<area shape="rect" id="node2" href="$class_sculpt_layer_base.html" title="Base class for sculpt layers. " alt="" coords="5,304,127,331"/>
+<area shape="rect" id="node3" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="21,229,111,256"/>
+<area shape="rect" id="node4" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="21,155,111,181"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="13,80,119,107"/>
+<area shape="rect" id="node6" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="27,5,105,32"/>
+</map>

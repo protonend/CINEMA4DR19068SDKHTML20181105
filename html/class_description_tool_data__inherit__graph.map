@@ -1,0 +1,6 @@
+<map id="DescriptionToolData" name="DescriptionToolData">
+<area shape="rect" id="node4" href="$class_brush_tool_data.html" title="BrushToolData" alt="" coords="5,229,112,256"/>
+<area shape="rect" id="node5" href="$class_sculpt_brush_tool_data.html" title="SculptBrushToolData" alt="" coords="136,229,280,256"/>
+<area shape="rect" id="node2" href="$class_tool_data.html" title="ToolData" alt="" coords="97,80,170,107"/>
+<area shape="rect" id="node3" href="$class_base_data.html" title="The base class for all plugin data classes. " alt="" coords="94,5,173,32"/>
+</map>

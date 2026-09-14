@@ -1,0 +1,28 @@
+var class_network_interface =
+[
+    [ "NetworkInterface", "class_network_interface.html#abafb57608341c9d80ae019b53c1f397d", null ],
+    [ "~NetworkInterface", "class_network_interface.html#adb551ec6b647bebdc200a6f3d856be0b", null ],
+    [ "Alloc", "class_network_interface.html#abe39edd385790a1b98aeaafb61062686", null ],
+    [ "Free", "class_network_interface.html#a8e7948b04c307e25be445bc5feca581c", null ],
+    [ "SetInterfaceIndex", "class_network_interface.html#a433bc116af6f66f47fd9cac2eeca6ce4", null ],
+    [ "GetInterfaceIndex", "class_network_interface.html#a40609ce05a40508aba18a7b3d3713344", null ],
+    [ "SetInterfaceName", "class_network_interface.html#a1869d18c98d56268aca99b200dba9d38", null ],
+    [ "GetInterfaceName", "class_network_interface.html#a63f9c6c4e987e662e9174fe03b02d987", null ],
+    [ "GetMacAddress", "class_network_interface.html#a32817f86f8082583e6375568e0b538fd", null ],
+    [ "GetDescription", "class_network_interface.html#a68e8e277d0fe8f5325fd07748ebd5463", null ],
+    [ "SetDescription", "class_network_interface.html#a64cdad324d77572c65ec2702fe528a6b", null ],
+    [ "IsLoopback", "class_network_interface.html#a4f70e9ef1668ae40ab05abcc1f6ba8d2", null ],
+    [ "SetLoopback", "class_network_interface.html#a1c353db091f27e08df117805b37c7029", null ],
+    [ "Flush", "class_network_interface.html#a0e2644b2df3c228e8d71a55b60723f31", null ],
+    [ "GetClone", "class_network_interface.html#a7f7927377bd192ead2ebc1bf3bf3ad0e", null ],
+    [ "GetCountAddress", "class_network_interface.html#a902c2d2bad5d267a2434a84f9d17b9ff", null ],
+    [ "Append", "class_network_interface.html#a36142a83c216d6593fc0caa1ef957ca6", null ],
+    [ "GetIpAddress", "class_network_interface.html#a73c63962cd8c2d139ad0571341f0333d", null ],
+    [ "GetBroadcastAddress", "class_network_interface.html#a6d3f71cdb0d8e9c7aba526f0bad3e123", null ],
+    [ "GetSubnetMask", "class_network_interface.html#a6fb6b60b22ec99b5f60b59fb22a852cb", null ],
+    [ "Write", "class_network_interface.html#a540b2ccd72cdfadc82c72b0eb61c4f97", null ],
+    [ "Read", "class_network_interface.html#abf764d0d4258938816588553886ad2ae", null ],
+    [ "CopyTo", "class_network_interface.html#a552f244099a92268f62e160db14e921b", null ],
+    [ "GetCustomData", "class_network_interface.html#af77a2cf378de31af55e6500fb0218f51", null ],
+    [ "SetCustomData", "class_network_interface.html#a181bcb8d974013e9d509d3e91a23788c", null ]
+];

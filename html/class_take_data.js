@@ -1,0 +1,25 @@
+var class_take_data =
+[
+    [ "TakeData", "class_take_data.html#a2c594ebe5c1279a006e6fa06e58e8434", null ],
+    [ "~TakeData", "class_take_data.html#ac92834c5878b7258075bc78c3229a547", null ],
+    [ "Set", "class_take_data.html#a7c5fbbfc8339a553b30cd5065bdef8fd", null ],
+    [ "GetDocument", "class_take_data.html#a9f28e3779c2b9fcaf677308274711589", null ],
+    [ "GetMainTake", "class_take_data.html#af06ca4ededa80b6e9c4b9b696aa326de", null ],
+    [ "GetTakeMode", "class_take_data.html#ad12fe2ce8ac07c2e878567ac8d970253", null ],
+    [ "GetOverrideEnabling", "class_take_data.html#aa97d80c14faf28b1b160b31d40255352", null ],
+    [ "CheckOverrideEnabling", "class_take_data.html#ad5cbba3b100e9bdbab8e8e63c5b9407b", null ],
+    [ "GetTakeSelection", "class_take_data.html#aa449b1cd0abc86449e3013913ad7c1ad", null ],
+    [ "GetCurrentTake", "class_take_data.html#aedeaa07c013fbe320c5cb59ff208aeee", null ],
+    [ "SetCurrentTake", "class_take_data.html#a4b6e28be046da662977e905daf94f881", null ],
+    [ "TakeToDocument", "class_take_data.html#af5d5308d58e86e3abed45936df8a50ba", null ],
+    [ "SaveTakesWithAssets", "class_take_data.html#acc9e4061b60bf9d05989cb8d04b19b28", null ],
+    [ "AddTake", "class_take_data.html#a443d8acddd208045381e6fdf28236dd6", null ],
+    [ "DeleteTake", "class_take_data.html#a17134de20a1db1ff7f1ea683aa4034b0", null ],
+    [ "InsertTake", "class_take_data.html#aa3e697498300d4bdcfbe51ab1f96ae78", null ],
+    [ "FindOverrideCounterPart", "class_take_data.html#a58fbc19d29b40ff36366d8632f9bcabe", null ],
+    [ "SendNodeToRepository", "class_take_data.html#a38ea92306466788d92db5251f7156f50", null ],
+    [ "GetNodeFromRepository", "class_take_data.html#a05c0c48356845ff58249729a34fa2bcf", null ],
+    [ "GetUndoState", "class_take_data.html#a56d4a501ff869c47d4215471ce80a2de", null ],
+    [ "SetUndoState", "class_take_data.html#a8b703cdfcdc7bc696547745ed45f161c", null ],
+    [ "ResetSystem", "class_take_data.html#ae9f840c897f8c1814b774c59eceb01f3", null ]
+];

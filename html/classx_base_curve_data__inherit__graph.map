@@ -1,0 +1,8 @@
+<map id="xBaseCurveData" name="xBaseCurveData">
+<area shape="rect" id="node3" href="$classx_circular_curve_data.html" title="xCircularCurveData" alt="" coords="372,5,504,32"/>
+<area shape="rect" id="node4" href="$classx_composite_curve_data.html" title="xCompositeCurveData" alt="" coords="363,56,513,83"/>
+<area shape="rect" id="node5" href="$classx_conic_curve_data.html" title="xConicCurveData" alt="" coords="377,107,499,133"/>
+<area shape="rect" id="node6" href="$classx_nurbs_curve_data.html" title="xNurbsCurveData" alt="" coords="377,157,499,184"/>
+<area shape="rect" id="node7" href="$classx_polynom_curve_data.html" title="xPolynomCurveData" alt="" coords="369,208,507,235"/>
+<area shape="rect" id="node2" href="$classx_base_geometry_data.html" title="xBaseGeometryData" alt="" coords="5,107,148,133"/>
+</map>

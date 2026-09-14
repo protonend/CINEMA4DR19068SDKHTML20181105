@@ -1,0 +1,8 @@
+<map id="SculptLayerBase" name="SculptLayerBase">
+<area shape="rect" id="node6" href="$class_sculpt_folder.html" title="A SculptFolder can contain many SculptLayer objects or other SculptFolder objects as children..." alt="" coords="5,379,100,405"/>
+<area shape="rect" id="node7" href="$class_sculpt_layer.html" title="A sculpt layer can contain one or more SculptLayerData children. " alt="" coords="125,379,215,405"/>
+<area shape="rect" id="node2" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="67,229,156,256"/>
+<area shape="rect" id="node3" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="66,155,157,181"/>
+<area shape="rect" id="node4" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="59,80,164,107"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="72,5,151,32"/>
+</map>

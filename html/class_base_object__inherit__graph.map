@@ -1,0 +1,19 @@
+<map id="BaseObject" name="BaseObject">
+<area shape="rect" id="node6" href="$class_c_a_joint_object.html" title="CAJointObject" alt="" coords="719,5,824,32"/>
+<area shape="rect" id="node7" href="$class_camera_object.html" title="CameraObject" alt="" coords="719,56,824,83"/>
+<area shape="rect" id="node8" href="$class_cloud_object.html" title="Cloud object. " alt="" coords="725,107,818,133"/>
+<area shape="rect" id="node9" href="$class_hair_object.html" title="HairObject" alt="" coords="730,157,813,184"/>
+<area shape="rect" id="node10" href="$class_lod_object.html" title="LodObject" alt="" coords="731,208,812,235"/>
+<area shape="rect" id="node11" href="$class_motion_tracker_object.html" title="MotionTrackerObject" alt="" coords="700,259,843,285"/>
+<area shape="rect" id="node12" href="$class_particle_object.html" title="ParticleObject" alt="" coords="719,309,823,336"/>
+<area shape="rect" id="node13" href="$class_point_object.html" title="PointObject" alt="" coords="726,360,817,387"/>
+<area shape="rect" id="node17" href="$class_s_d_s_object.html" title="SDSObject" alt="" coords="728,411,815,437"/>
+<area shape="rect" id="node18" href="$class_voronoi_fracture.html" title="VoronoiFracture" alt="" coords="714,461,829,488"/>
+<area shape="rect" id="node2" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="424,233,513,260"/>
+<area shape="rect" id="node3" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="285,233,376,260"/>
+<area shape="rect" id="node4" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="132,233,237,260"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="5,233,84,260"/>
+<area shape="rect" id="node14" href="$class_line_object.html" title="LineObject" alt="" coords="902,309,986,336"/>
+<area shape="rect" id="node15" href="$class_polygon_object.html" title="PolygonObject" alt="" coords="891,360,997,387"/>
+<area shape="rect" id="node16" href="$class_spline_object.html" title="Represents a spline object. " alt="" coords="896,411,992,437"/>
+</map>

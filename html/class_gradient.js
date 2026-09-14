@@ -1,0 +1,28 @@
+var class_gradient =
+[
+    [ "Gradient", "class_gradient.html#a2ecadb48be97c2a82512733026980c3e", null ],
+    [ "~Gradient", "class_gradient.html#a7eca561679721dd6fefc2b287d25f9df", null ],
+    [ "Alloc", "class_gradient.html#acbdd297455c5d6239944c254aa8616f9", null ],
+    [ "Free", "class_gradient.html#a5fa62e1620024eafed67243e3e1ce898", null ],
+    [ "InvertKnots", "class_gradient.html#aa777eb7b4f3f4a6e87b07bcd3a180550", null ],
+    [ "DoubleKnots", "class_gradient.html#a9dbe51523ba63e53e6639179b3f89dba", null ],
+    [ "FlushKnots", "class_gradient.html#a84ecc0189a68248060c9f6683499cffa", null ],
+    [ "InitRender", "class_gradient.html#a95bb8fdc4e48ef3516c8a9e67b3cd428", null ],
+    [ "FreeRender", "class_gradient.html#a8739de89fb22262c02a9d43f3b9318b3", null ],
+    [ "CalcGradientPixel", "class_gradient.html#a7825fb498abaf56eb26239f8a140098c", null ],
+    [ "GetRenderKnot", "class_gradient.html#ab307f53a0cf2f63f13fa6e50e1976475", null ],
+    [ "GetRenderKnotCount", "class_gradient.html#ae045aa333b7f0f31077bd45930e015d3", null ],
+    [ "GetKnotCount", "class_gradient.html#a65dc9782ea78f077f4864e62d0782b55", null ],
+    [ "InsertKnot", "class_gradient.html#aa2007db0d5c2aebe3342bd7eea9cf1e0", null ],
+    [ "RemoveKnot", "class_gradient.html#a227a93e0bac93b371eaf02f1ecbdd797", null ],
+    [ "GetKnot", "class_gradient.html#adc2d4647dc4c6581493c838b28b54221", null ],
+    [ "SetKnot", "class_gradient.html#ac5f5a522b21c60cbe542870dd2a18191", null ],
+    [ "GetData", "class_gradient.html#a0439225a705a186771a1a9acf2feef97", null ],
+    [ "SetData", "class_gradient.html#a4870a257cc8798c1e959ae44bc4f3073", null ],
+    [ "GetAlphaGradient", "class_gradient.html#a0f10c68dd83bda50b44e7629cdc0ee08", null ],
+    [ "AllocAlphaGradient", "class_gradient.html#a1133314360d0e4d8146276656bda5d1e", null ],
+    [ "ConvertToAlphaGradient", "class_gradient.html#a6653d5f097834f8eabd5b2e7a6b49ca0", null ],
+    [ "CopyFrom", "class_gradient.html#a7c538924d88e8d0165f5fc317a64a63a", null ],
+    [ "ConvertToAlphaGradient", "class_gradient.html#af52f9be28faec2fe14a02eee94ce59a2", null ],
+    [ "GetChecksum", "class_gradient.html#a8ce0f260f72ebc0298fa8a53fbe7eaf6", null ]
+];

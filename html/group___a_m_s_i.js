@@ -1,0 +1,26 @@
+var group___a_m_s_i =
+[
+    [ "AMSI_CREATE_MISSING_MATERIALS", "group___a_m_s_i.html#gafc4b2e6f49aed2f2c600d5d36b5793c2", null ],
+    [ "AMSI_CREATE_MISSING_CHANNELS", "group___a_m_s_i.html#ga24cb8b49102244f336758122465c51e0", null ],
+    [ "AMSI_AUTOSELECT_MATERIALS", "group___a_m_s_i.html#ga874107be5ceef8074a0e7602a511a177", null ],
+    [ "AMSI_AUTOSELECT_OBJECTS", "group___a_m_s_i.html#ga0934275676bd1c16679b40ee7ad41a4a", null ],
+    [ "AMSI_DELETE_BROKENMATERIALTAGS", "group___a_m_s_i.html#ga91fdb4b96e95014c3ba581249f8b3643", null ],
+    [ "AMSI_ENABLEMATERIALS", "group___a_m_s_i.html#gafacdf2b4f9944df44d95e239a5795c5a", null ],
+    [ "AMSI_SINGLEMATERIAL", "group___a_m_s_i.html#ga630b8f5c0dbfb5cc7f7e7dcd481f8d5f", null ],
+    [ "CREATE_CHANNEL", "group___a_m_s_i.html#gab234311320c388ec772a798cc1670084", null ],
+    [ "CREATE_CHANNEL_C", "group___a_m_s_i.html#gaf3ec87df3d15e6229695b01b206f5718", null ],
+    [ "AMSI_ENABLED", "group___a_m_s_i.html#ga7f15a143f7e1b8938b07d502a8a94458", null ],
+    [ "AMSI_TEXW", "group___a_m_s_i.html#ga401c5469da637a6a88d4e4b8e1aa8c00", null ],
+    [ "AMSI_TEXH", "group___a_m_s_i.html#ga4abf724c6f32daa3926bc322c0466b05", null ],
+    [ "AMSI_TEXMIN", "group___a_m_s_i.html#ga5b4b9afb984b3427bf09e68006e09fb5", null ],
+    [ "AMSI_TEXMAX", "group___a_m_s_i.html#ga0c556448ea5c38b2ee16a45a7c655e6f", null ],
+    [ "AMSI_QUANTIZE", "group___a_m_s_i.html#gab27024bc3523069c09d6ffb974e40202", null ],
+    [ "AMSI_RESCALE_EXISTING", "group___a_m_s_i.html#gac4516fa12b4677fb8530e9f0c8e04821", null ],
+    [ "AMSI_USE_SAME_RES", "group___a_m_s_i.html#gac64534c1fa4f89e83b3f158e0332cdc1", null ],
+    [ "AMSI_UV_CALC_METHOD", "group___a_m_s_i.html#ga2973e7e9fec2af0277998951ec477783", null ],
+    [ "UV_CALC_METHOD_OPTIMAL1", "group___a_m_s_i.html#gad752b5f03b26602062eb4db5071febce", null ],
+    [ "UV_CALC_METHOD_OPTIMAL2", "group___a_m_s_i.html#ga6bc88bbff6171f8c3a5e2d3190789bea", null ],
+    [ "UV_CALC_METHOD_REALIGN", "group___a_m_s_i.html#ga6870b42e2e3856a1524c7380dfbf5364", null ],
+    [ "AMSI_UV_CALC_EXISTING", "group___a_m_s_i.html#ga463e29445f607b2d799d971de838f647", null ],
+    [ "AMSI_UV_RELAXATION", "group___a_m_s_i.html#ga7dd63b07544e6c659c62f0fa585c03d1", null ]
+];

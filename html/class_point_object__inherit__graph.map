@@ -1,0 +1,10 @@
+<map id="PointObject" name="PointObject">
+<area shape="rect" id="node7" href="$class_line_object.html" title="LineObject" alt="" coords="5,453,89,480"/>
+<area shape="rect" id="node8" href="$class_polygon_object.html" title="PolygonObject" alt="" coords="114,453,221,480"/>
+<area shape="rect" id="node9" href="$class_spline_object.html" title="Represents a spline object. " alt="" coords="245,453,341,480"/>
+<area shape="rect" id="node2" href="$class_base_object.html" title="BaseObject" alt="" coords="122,304,213,331"/>
+<area shape="rect" id="node3" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="123,229,212,256"/>
+<area shape="rect" id="node4" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="122,155,213,181"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="115,80,220,107"/>
+<area shape="rect" id="node6" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="128,5,207,32"/>
+</map>

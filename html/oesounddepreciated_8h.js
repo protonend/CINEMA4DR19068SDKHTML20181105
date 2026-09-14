@@ -1,0 +1,26 @@
+var oesounddepreciated_8h =
+[
+    [ "MGSOUNDEFFECTOR_FILE", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a051c54d84e8e4ca17511c8c292bf313b", null ],
+    [ "MGSOUNDEFFECTOR_PLAY", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a62d93f5939b526e3e5c82113e891124b", null ],
+    [ "MGSOUNDEFFECTOR_START", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a06a3aa627606ca811be1d59c036c0392", null ],
+    [ "MGSOUNDEFFECTOR_FREQ", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a74e487262912285644941395dbb8bf35", null ],
+    [ "MGSOUNDEFFECTOR_BANDWIDTH", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a8868dac10fbaa5cee59b106f920de97d", null ],
+    [ "MGSOUNDEFFECTOR_FILTER", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a4f8108cf954ec757481f1f9024aba400", null ],
+    [ "MGSOUNDEFFECTOR_SCRUB", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a3a77ee44fd637f62aff8c942f386ac8c", null ],
+    [ "MGSOUNDEFFECTOR_FILTERSHAPE", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a539617e5a6fdc571588d5248b079d029", null ],
+    [ "MGSOUNDEFFECTOR_LCHANNEL", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318ae19b07c5e7ccd13f07cb32f1e3237e43", null ],
+    [ "MGSOUNDEFFECTOR_RCHANNEL", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318ae9ae45592ad3c9e534f009677824a0cf", null ],
+    [ "MGSOUNDEFFECTOR_LOWERLIMIT", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a6c591530177accbf22b52111934de670", null ],
+    [ "MGSOUNDEFFECTOR_MODE", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318ac83f9eec7ad4929233e8e62c22b2be92", null ],
+    [ "MGSOUNDEFFECTOR_MODE_PEAK", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a87d2ac6770745db2f005cd8cd076ab48", null ],
+    [ "MGSOUNDEFFECTOR_MODE_AVE", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a8f4941c93b0e875616f5ec1a53d5ce72", null ],
+    [ "MGSOUNDEFFECTOR_MODE_COMP", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a32e5b3d35be9914f626026b797b1b717", null ],
+    [ "MGSOUNDEFFECTOR_FALLOFF", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a09648d0b7b72df46ee7448f94735ecf2", null ],
+    [ "MGSOUNDEFFECTOR_GRAPH", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318aa1ea49c84a60ffac01bb251ce4e5a4a4", null ],
+    [ "MGSOUNDEFFECTOR_MULTIPLIER", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318abf32efc6ecf8d5d60f46114014141602", null ],
+    [ "MGSOUNDEFFECTOR_MGMODE", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a60ef2f10e92bd10c75b210c6fa46053a", null ],
+    [ "MGSOUNDEFFECTOR_MGMODE_ALL", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318ab072203cf0cd3bf3c63431958bdfca86", null ],
+    [ "MGSOUNDEFFECTOR_MGMODE_STEP", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a3c669f53455a425bc0561bff0915b453", null ],
+    [ "MGSOUNDEFFECTOR_COLORGRADIENT", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318ac38df2f7abb8240ed1b8691f693e850a", null ],
+    [ "MGSOUNDEFFECTOR_CLAMP", "oesounddepreciated_8h.html#a21585a8778ca0c944c970059792ad318a7cd2ff8eb91c10b47cf2c95b8562baaf", null ]
+];

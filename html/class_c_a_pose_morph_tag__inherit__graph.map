@@ -1,0 +1,7 @@
+<map id="CAPoseMorphTag" name="CAPoseMorphTag">
+<area shape="rect" id="node2" href="$class_base_tag.html" title="BaseTag" alt="" coords="32,304,105,331"/>
+<area shape="rect" id="node3" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="24,229,113,256"/>
+<area shape="rect" id="node4" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="23,155,114,181"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="16,80,121,107"/>
+<area shape="rect" id="node6" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="29,5,108,32"/>
+</map>

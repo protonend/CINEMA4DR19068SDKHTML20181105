@@ -1,0 +1,28 @@
+var tannotation_8h =
+[
+    [ "ANNOTATIONTAG_FIRST_ELEMENT", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131abdc68464f30f4064e30fb299fc9ef3c8", null ],
+    [ "ANNOTATIONTAG_GROUPDISPLAY", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131ac2ccf5beff7e1718c0fcf705e5a9e4bf", null ],
+    [ "ANNOTATIONTAG_COLOR", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a7a2907acb4446b814b17ee4490e3b800", null ],
+    [ "ANNOTATIONTAG_COLORFROMLAYER", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a2e2be9912db4f1c23c8857cc06aaa61f", null ],
+    [ "ANNOTATIONTAG_COLORICON", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a0f3bb0fda829a04a7c187ae604aee7e1", null ],
+    [ "ANNOTATIONTAG_VIEWPORT_SHOW", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a834bca7fa520bdecdca2ca399b192b1b", null ],
+    [ "ANNOTATIONTAG_VIEWPORT_ALL", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131ae7fd77541e19d1b01e72caf15a4b4bd0", null ],
+    [ "ANNOTATIONTAG_SCALEFLAG", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a3f51b5eb399c81492d665e220e935f17", null ],
+    [ "ANNOTATIONTAG_EXPORT", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a472bcb175b689de84faf702457250bc7", null ],
+    [ "ANNOTATIONTAG_FOLD", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a36f35a4c5b35c3ec55f83e0ae5ef2b6b", null ],
+    [ "ANNOTATIONTAG_SHOW_ALL", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a97815778496a1e006f986ba8558f43d9", null ],
+    [ "ANNOTATIONTAG_HIDE_ALL", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a3c08d04fa81f8970fbaacd23f0b079dd", null ],
+    [ "ANNOTATIONTAG_HIDE_OTHERS", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a53546f2bd838b4664e5c3d4f49580178", null ],
+    [ "ANNOTATIONTAG_GROUPSETTINGS", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131ac45f586a8fde9c79d0fe397b6958d508", null ],
+    [ "ANNOTATIONTAG_TEXT", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131aa14f99aac0c2774b8a7b98078e290da9", null ],
+    [ "ANNOTATIONTAG_URL", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a62f744258c18cb2470fb3ee00fd7cc7b", null ],
+    [ "ANNOTATIONTAG_URL_INFO", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a240a64a884a99781738e9f29c256bace", null ],
+    [ "ANNOTATIONTAG_URL_GO", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a0785378a4ed3b4da4f3939070d52d543", null ],
+    [ "ANNOTATIONTAG_POI_CUSTOM", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a17539385c5ce80423c6958a7f6aadfc2", null ],
+    [ "ANNOTATIONTAG_POI_OBJECTINDEX", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a05961ea14081eb6e3922a71a0cd665e5", null ],
+    [ "ANNOTATIONTAG_POI_POINTINDEX", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a32263558d3d27a858077bfbc211652fc", null ],
+    [ "ANNOTATIONTAG_DRAGGED", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131afd66de8a083dd5ac41c67f65e1453dc5", null ],
+    [ "ANNOTATIONTAG_DRAG_TAG_ID", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131a240366046ba01667e2e43004557384d0", null ],
+    [ "ANNOTATIONTAG_DRAG_OBJ_ID", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131af81b32b9b416646f1a3228195328a838", null ],
+    [ "ANNOTATIONTAG_DUMMY", "tannotation_8h.html#a5cfe6d496a81f559c9a58c2b6598a131adb3d569dc07497de32a9d59e31f29fee", null ]
+];

@@ -1,0 +1,85 @@
+var group___snapping =
+[
+    [ "PLUGINFLAG_SNAP", "group___p_l_u_g_i_n_f_l_a_g___s_n_a_p.html", "group___p_l_u_g_i_n_f_l_a_g___s_n_a_p" ],
+    [ "SNAPFLAGS", "group___s_n_a_p_f_l_a_g_s.html", "group___s_n_a_p_f_l_a_g_s" ],
+    [ "SNAPPRIORITY", "group___s_n_a_p_p_r_i_o_r_i_t_y.html", "group___s_n_a_p_p_r_i_o_r_i_t_y" ],
+    [ "SnapPoint", "struct_snap_point.html", [
+      [ "SnapPoint", "struct_snap_point.html#a70e5ad04ddc11d841e4b1cdaa02cd785", null ],
+      [ "~SnapPoint", "struct_snap_point.html#a427b5817760cfa82cdc8b101677cd7e8", null ],
+      [ "mat", "struct_snap_point.html#afab460ebb9128249fdf1e27b21224579", null ],
+      [ "target", "struct_snap_point.html#abec5551a84c78a3c6c0196a3f212ef4c", null ],
+      [ "component", "struct_snap_point.html#a27762de3fb905afb0c2c161f793e6219", null ]
+    ] ],
+    [ "SnapResult", "struct_snap_result.html", [
+      [ "SnapResult", "struct_snap_result.html#aa168f295a4b177eb7b747190e876e529", null ],
+      [ "~SnapResult", "struct_snap_result.html#a06086134573dcb1ceec999d4ad783267", null ],
+      [ "snapmode", "struct_snap_result.html#a5a869ecb297c51a35c1ab651ac783039", null ],
+      [ "initial_snap", "struct_snap_result.html#af55b74e36d60b2e9bf939a7018f7e219", null ],
+      [ "delta", "struct_snap_result.html#aae5cfc381a1ef764b71ba666def5dbf3", null ]
+    ] ],
+    [ "SnapExclude", "struct_snap_exclude.html", [
+      [ "SnapExclude", "struct_snap_exclude.html#a7f72ccd80a9e3c694480b35da3d57134", null ],
+      [ "SnapExclude", "struct_snap_exclude.html#ad03fc296feb642173a76423f6e94492b", null ],
+      [ "SnapExclude", "struct_snap_exclude.html#ae86363aa29c75b82e738adf2a89dc1d8", null ],
+      [ "operator=", "struct_snap_exclude.html#a3bd9fcf2dd3354a0caf60517edc38d3e", null ],
+      [ "operator=", "struct_snap_exclude.html#a44bd26dc8ebeffdd1c8217a10a1a41e0", null ],
+      [ "CopyFrom", "struct_snap_exclude.html#af2d269fb71cdf8a517f77497fddc77d3", null ],
+      [ "op", "struct_snap_exclude.html#a7cf9d84b7d51fab8de978c126ee627b7", null ],
+      [ "points", "struct_snap_exclude.html#a7a6fcf29f56001f1887d33f0eb850f59", null ],
+      [ "edges", "struct_snap_exclude.html#a3304f9be048411c2d61f346df092e1ea", null ],
+      [ "polys", "struct_snap_exclude.html#a9603ecc3edfa6aa1a41bb0f8bec4baa1", null ]
+    ] ],
+    [ "SnapStruct", "struct_snap_struct.html", [
+      [ "SnapStruct", "struct_snap_struct.html#a80c0870aa41bc6de75c84ff933f4b475", null ],
+      [ "~SnapStruct", "struct_snap_struct.html#ad728dcba8d9563192afc1f7bd7f2ab3b", null ],
+      [ "doc", "struct_snap_struct.html#ab988938d28c377e24fcd8ec3da46ff02", null ],
+      [ "bd", "struct_snap_struct.html#abc15db0ff883dcb293d84e302c9d906b", null ],
+      [ "snap_radius", "struct_snap_struct.html#a8eff19b47f3e4f88ec8ec02dd3cdd2e0", null ],
+      [ "excluded_objects", "struct_snap_struct.html#ae0161fd7fce0e10a32fe7fa373b59e30", null ],
+      [ "object_list", "struct_snap_struct.html#a426ccf9120512ffe19dd2fde1805ad21", null ],
+      [ "bt", "struct_snap_struct.html#afbb004f56bf551f6234a69124d38604b", null ],
+      [ "flags", "struct_snap_struct.html#ab057a57d0ddff4df14bd443d553d5c66", null ],
+      [ "projection", "struct_snap_struct.html#a2272c1aaf968a82bdcb079d68ccfb113", null ],
+      [ "snapExcludeList", "struct_snap_struct.html#a2c5e8006f34d8878528a46e48ddf32eb", null ]
+    ] ],
+    [ "SnapData", "class_snap_data.html", [
+      [ "Init", "class_snap_data.html#a202e5d8dc8447a11f79d5aae6c6cf976", null ],
+      [ "Free", "class_snap_data.html#ae44a7680cfe11884275198e301a64acb", null ],
+      [ "InitSnap", "class_snap_data.html#abb9da5dadebe01af855baa29b4b57eef", null ],
+      [ "Snap", "class_snap_data.html#a973950640a06322565634d51f0d4ae4f", null ],
+      [ "Intersect", "class_snap_data.html#ab958b2eb410b9a541112466c87a79882", null ],
+      [ "FreeSnap", "class_snap_data.html#a5cd629a4b64a36a34ef5ac664665a18e", null ],
+      [ "Draw", "class_snap_data.html#a66a89e4c5df3a0aa466d87d973e097e4", null ],
+      [ "GetCursorInfo", "class_snap_data.html#a97c500b3bd6b37476c2737fbcc675f52", null ],
+      [ "MouseInput", "class_snap_data.html#af2852eb606f851d6d02d8be7cf3017ac", null ],
+      [ "KeyboardInput", "class_snap_data.html#ae933ae305821e8b9f3f18df97f7a4148", null ]
+    ] ],
+    [ "SnapCore", "class_snap_core.html", [
+      [ "SnapCore", "class_snap_core.html#a5388051075b94ce49fdcf3dd6fa45b71", null ],
+      [ "Alloc", "class_snap_core.html#a219954857e2cabb571abc33e5a25dfd3", null ],
+      [ "Free", "class_snap_core.html#a94cfafcc1652ceac2d2dd6549a75c083", null ],
+      [ "Init", "class_snap_core.html#ad47a07b401b4dd4dae9416f738601aa6", null ],
+      [ "Update", "class_snap_core.html#a14f7cafd6d514b05b79bd369dec85d18", null ],
+      [ "Snap", "class_snap_core.html#a62606b7cf45725557200767c3065da8c", null ],
+      [ "Intersect", "class_snap_core.html#ad84f7214456239a5495f597277174020", null ],
+      [ "AddInferred", "class_snap_core.html#a0999baa50865f7310459d11b28b77f8e", null ],
+      [ "FlushInferred", "class_snap_core.html#affea8ca52282df2ff775415c14013903", null ],
+      [ "SetToolObject", "class_snap_core.html#a655bce85d0a21f183ea48a65d7e443b4", null ],
+      [ "SetCustomExcludeList", "class_snap_core.html#a574edce75609c28ca426241322b58b73", null ]
+    ] ],
+    [ "ID_SNAPCORE_LIB", "group___snapping.html#gab96aadd67accb5ee098b30c6aff00e62", null ],
+    [ "SnapDataAllocator", "group___snapping.html#ga0ade4d3550da7ed94d1776e2928cd10c", null ],
+    [ "IsSnapEnabled", "group___snapping.html#gad9bbd74cafbda2408d69e8e33a300f7e", null ],
+    [ "EnableSnap", "group___snapping.html#ga4995ed90da93074eaf79ca724908d70d", null ],
+    [ "SnapSettings", "group___snapping.html#ga8bd505209183088a7d03b70d75aafc02", null ],
+    [ "SnapSettings", "group___snapping.html#gaf9ae8b086705e1748f824ae82facba3a", null ],
+    [ "IsQuantizeEnabled", "group___snapping.html#ga2b2a56d3e245d41cb8e2af507e296a3d", null ],
+    [ "QuantizeStep", "group___snapping.html#ga670699e4f11a6fe49b11192ae60def34", null ],
+    [ "QuantizeStep", "group___snapping.html#ga06cecee57bbf5a2d88514462c85b81e4", null ],
+    [ "GetConstructionPlane", "group___snapping.html#ga73f04b2e60ddeb6f76677b67cf72d9e0", null ],
+    [ "GetWorkplaneObject", "group___snapping.html#gad5cbe0bf78009c9c2f6c6223aff49ee4", null ],
+    [ "WorkplaneLock", "group___snapping.html#gaad1f7e15033c20f450ad6d09e838e53e", null ],
+    [ "WorkplaneLock", "group___snapping.html#gabdd75d4949f3238b1f18bf95fbf367f3", null ],
+    [ "GetWorkplaneMatrix", "group___snapping.html#ga56e1771dc92c82c82bd3d9aa0a689b70", null ],
+    [ "RegisterSnapPlugin", "group___snapping.html#ga84a15e3a4fcf4729c920702e9edc1022", null ]
+];

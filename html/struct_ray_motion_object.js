@@ -1,0 +1,25 @@
+var struct_ray_motion_object =
+[
+    [ "RayMotionObject", "struct_ray_motion_object.html#a12d5590c5f75abcc0ad30107aa72dea1", null ],
+    [ "RayMotionObject", "struct_ray_motion_object.html#a72c5793362898b30d88a905976ee9296", null ],
+    [ "operator=", "struct_ray_motion_object.html#afff074c7c3ac0af85e7dd907d94703b9", null ],
+    [ "_motionFlags", "struct_ray_motion_object.html#a308c545c469527f7ed104e75d4f5e820", null ],
+    [ "_motionFrames", "struct_ray_motion_object.html#a359b98e6c113524f04d3f43bce12f669", null ],
+    [ "_motionMatrixRef", "struct_ray_motion_object.html#a66f047667e7ca1509e784d40a47864d4", null ],
+    [ "_motionMatrixRefInv", "struct_ray_motion_object.html#a7a25783dc2156b45aece4f14d62273ec", null ],
+    [ "_texturesData", "struct_ray_motion_object.html#a7da756d2be665961608523cd3db54e7f", null ],
+    [ "_motionData", "struct_ray_motion_object.html#ae67749a4e00a1ab1b61191ce6f0f8f2c", null ],
+    [ "_motionPointsData", "struct_ray_motion_object.html#ac77cea71ead45bab3b94cccb273d5307", null ],
+    [ "_motionPointsCount", "struct_ray_motion_object.html#a88a8d3cfaa2e6257e9bfea89247cc21e", null ],
+    [ "_motionSpdPoints", "struct_ray_motion_object.html#a872239ff6f8eb6449fb57842bad754f1", null ],
+    [ "_motionSpdCooefs", "struct_ray_motion_object.html#a2c06626d3af3ec917b856ef30abccf6d", null ],
+    [ "_motionSpdCount", "struct_ray_motion_object.html#a45018bb3fdcc6a10a0b94da76a624320", null ],
+    [ "_motionTexPointsData", "struct_ray_motion_object.html#a8bc0ddf40f9853a824dc2082badaed5a", null ],
+    [ "_motionTexPointsCount", "struct_ray_motion_object.html#a26d3764e5ff726d20515cf20c7bad1cb", null ],
+    [ "_motionNormalsData", "struct_ray_motion_object.html#a29a09bd2f969708bf661ff8b07a7da14", null ],
+    [ "_motionNormalsCount", "struct_ray_motion_object.html#a8a5aadfa504fa1ff14b964974dc1377b", null ],
+    [ "_motionNormalsPhongData", "struct_ray_motion_object.html#af8afd263ac2e9ca5d2b88298b20d72f7", null ],
+    [ "_motionNormalsPhongCount", "struct_ray_motion_object.html#a13fb0dc51e690840411b95158aac1ee1", null ],
+    [ "_motionSubNormalsData", "struct_ray_motion_object.html#a3455732024dada5eb9935f0acf3d87be", null ],
+    [ "_motionSubNormalsCount", "struct_ray_motion_object.html#a8e1feb10bca0c03b4f3beaa8e90083db", null ]
+];

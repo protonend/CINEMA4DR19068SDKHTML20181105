@@ -1,0 +1,6 @@
+var ogravitation_8h =
+[
+    [ "GRAVITATIONOBJECT_LEGACY_STRENGTH", "ogravitation_8h.html#a4b6dac7f69159e91546e9ec128506a66ab547a5354c4e408891d102d2b6b267fd", null ],
+    [ "GRAVITATIONOBJECT_SIZE", "ogravitation_8h.html#a4b6dac7f69159e91546e9ec128506a66a9df82c67d8c01e6a012a5154024a1a34", null ],
+    [ "GRAVITATIONOBJECT_STRENGTH", "ogravitation_8h.html#a4b6dac7f69159e91546e9ec128506a66a7445f69e356751549350e208354a11a8", null ]
+];

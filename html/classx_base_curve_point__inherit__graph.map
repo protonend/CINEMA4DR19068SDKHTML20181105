@@ -1,0 +1,5 @@
+<map id="xBaseCurvePoint" name="xBaseCurvePoint">
+<area shape="rect" id="node2" href="$classx_nurbs_curve_point.html" title="xNurbsCurvePoint" alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node3" href="$classx_polynom_curve_point.html" title="xPolynomCurvePoint" alt="" coords="155,80,298,107"/>
+<area shape="rect" id="node4" href="$classx_polynom_surface_point.html" title="xPolynomSurfacePoint" alt="" coords="149,155,304,181"/>
+</map>

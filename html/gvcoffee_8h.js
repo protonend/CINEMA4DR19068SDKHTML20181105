@@ -1,0 +1,28 @@
+var gvcoffee_8h =
+[
+    [ "GV_COFFEE_CODE", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a68c54fba740b9d0056e7dd55a8680889", null ],
+    [ "GV_COFFEE_CODEEDIT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a0b6bb991ba1c03dae372859b214e8795", null ],
+    [ "GV_COFFEE_ERROR", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ac6afc0fb704f95f265c2cf28c790de72", null ],
+    [ "GV_COFFEE_ON", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ac0a81684e2c4285f8125c92efa647704", null ],
+    [ "GV_COFFEE_LOCK", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ac487f1d14a2782d79c4d6043619c47f4", null ],
+    [ "GV_COFFEE_UNLOCK", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a1668f6224577df08c905dd816e254c07", null ],
+    [ "GV_COFFEE_REAL_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a561c0a66722a280b53df2e066422302f", null ],
+    [ "GV_COFFEE_LONG_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a90df89db8b77688f66e796917cdae1f0", null ],
+    [ "GV_COFFEE_BOOL_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a45fe6476237e7ab6d4f5cffb1dbe4f6c", null ],
+    [ "GV_COFFEE_VECTOR_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ab5ad10d6eaddf59bd2d7c8075e02f401", null ],
+    [ "GV_COFFEE_STRING_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ae6ae45cc3f4e19943f32a2e6f6288ffb", null ],
+    [ "GV_COFFEE_TIME_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ab6e520c1ed98071de122044ae1047e40", null ],
+    [ "GV_COFFEE_MATRIX_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ab360bfa3f3f9c70170c50b670e6e16f0", null ],
+    [ "GV_COFFEE_LINK_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a22e686b735c8f3aa5ac05c84a174238d", null ],
+    [ "GV_COFFEE_FILENAME_INPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ae6d242b4334620fe86fdbb277748ded9", null ],
+    [ "GV_COFFEE_REAL_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a2e101b5667f085c1dc62f5c1171405f7", null ],
+    [ "GV_COFFEE_LONG_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ac7d9b7249ed1ee1095cc20360b58365f", null ],
+    [ "GV_COFFEE_BOOL_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a5f8880b51de36e9c66219be92edf6153", null ],
+    [ "GV_COFFEE_VECTOR_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987ada9bc7e4818ee3eba04296249be1b342", null ],
+    [ "GV_COFFEE_STRING_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a2c3b3e8fb8809a3bbf04a5c686ef0736", null ],
+    [ "GV_COFFEE_TIME_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a47f4a838bee66edbe016d67b4b3f8eff", null ],
+    [ "GV_COFFEE_MATRIX_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a7a0e242c8e709ec59262c96fa7718372", null ],
+    [ "GV_COFFEE_LINK_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a60bc13e1760ea4846e713f8f778be9ed", null ],
+    [ "GV_COFFEE_FILENAME_OUTPUT", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a640a0f74a9eea15cd27c8c892eb1c955", null ],
+    [ "GV_COFFEE_", "gvcoffee_8h.html#a337d6b8d9f9cc2b4d207e433a70d3987a277e2b500f6bd98e9645d80e4f67be30", null ]
+];

@@ -1,0 +1,27 @@
+var class_machine =
+[
+    [ "Machine", "class_machine.html#a5a8ba29092f9d92206bb9501bf5d8d88", null ],
+    [ "~Machine", "class_machine.html#a3d019c759432ec72cc4e27162be096bc", null ],
+    [ "GetNext", "class_machine.html#a415c7d73f2344850c22e602c6ba17e31", null ],
+    [ "GetPred", "class_machine.html#a7ec2760a668a59add398debfe846d073", null ],
+    [ "GetUuid", "class_machine.html#ae0c962684731caa7aefc32d28a77380a", null ],
+    [ "SetUuid", "class_machine.html#a4dd5695e5b51a21e5108def7cac8da9e", null ],
+    [ "GetColor", "class_machine.html#adb48ac2ce00481a01889a62b6d244d5d", null ],
+    [ "SetColor", "class_machine.html#a0be531aa70a0286921159927fd887d7a", null ],
+    [ "GetGlobalSelected", "class_machine.html#a191ead86244507e02cea979a7b7a2c49", null ],
+    [ "SetGlobalSelected", "class_machine.html#a47a254afb7cbaf23434744de4a6d6e92", null ],
+    [ "FoundViaZeroConf", "class_machine.html#a2da2f77abfc09d752f77f7e2c3206c0a", null ],
+    [ "FoundViaZeroConf", "class_machine.html#a45e6fd6d6a21b33cb3f79af561493b67", null ],
+    [ "GetFullyQualifiedDomainName", "class_machine.html#a707db281655bec1f72f553518387fed0", null ],
+    [ "GetOperatingSystem", "class_machine.html#ac5b7918369a3fe8ce0fb3fb8ae883d15", null ],
+    [ "SetOperatingSystem", "class_machine.html#afdbefcef6e33f0928fa78a2e66f5e2b3", null ],
+    [ "GetMachineFeatures", "class_machine.html#a4a0d3580df13d474f8c0e2ca48c64191", null ],
+    [ "SetMachineFeatures", "class_machine.html#a23bd19eb7a9d4f4c9bcbdb3583349eeb", null ],
+    [ "GetCurrentJobCommand", "class_machine.html#aa2d011e794b8d61b937a4d5e79e37ff5", null ],
+    [ "SetMacAddress", "class_machine.html#ab519bb6528a8476bc26026e42dec5c42", null ],
+    [ "GetMacAddress", "class_machine.html#a32817f86f8082583e6375568e0b538fd", null ],
+    [ "ClearVerificationBit", "class_machine.html#a0aa82ec7456d5bcbcca9ff03dcabeea2", null ],
+    [ "GetVerificationBit", "class_machine.html#ac530f22d026b042247fc12e4f9e877c6", null ],
+    [ "SetVerificationBit", "class_machine.html#aeb92b846accc328648598aaa0a55811f", null ],
+    [ "GetEdition", "class_machine.html#a78e3fcfac0a60a6b1d0abff8c98871d5", null ]
+];

@@ -1,0 +1,28 @@
+<map id="BaseTag" name="BaseTag">
+<area shape="rect" id="node6" href="$class_c_a_pose_morph_tag.html" title="CAPoseMorphTag" alt="" coords="684,5,811,32"/>
+<area shape="rect" id="node7" href="$class_c_a_weight_tag.html" title="CAWeightTag" alt="" coords="696,56,799,83"/>
+<area shape="rect" id="node8" href="$class_hair_selection_tag.html" title="HairSelectionTag" alt="" coords="687,107,807,133"/>
+<area shape="rect" id="node9" href="$class_hair_tangent_tag.html" title="HairTangentTag" alt="" coords="691,157,803,184"/>
+<area shape="rect" id="node10" href="$class_hair_vertex_map_tag.html" title="HairVertexMapTag" alt="" coords="683,208,812,235"/>
+<area shape="rect" id="node11" href="$class_h_n_weight_tag.html" title="HNWeightTag" alt="" coords="696,259,799,285"/>
+<area shape="rect" id="node12" href="$class_sculpt_tag.html" title="SculptTag" alt="" coords="707,309,787,336"/>
+<area shape="rect" id="node13" href="$class_selection_tag.html" title="SelectionTag" alt="" coords="699,360,796,387"/>
+<area shape="rect" id="node14" href="$class_texture_tag.html" title="TextureTag" alt="" coords="704,411,791,437"/>
+<area shape="rect" id="node15" href="$class_variable_tag.html" title="VariableTag" alt="" coords="702,461,793,488"/>
+<area shape="rect" id="node27" href="$class_x_presso_tag.html" title="XPressoTag" alt="" coords="702,512,793,539"/>
+<area shape="rect" id="node2" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="424,259,513,285"/>
+<area shape="rect" id="node3" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="285,259,376,285"/>
+<area shape="rect" id="node4" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="132,259,237,285"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="5,259,84,285"/>
+<area shape="rect" id="node16" href="$class_normal_tag.html" title="Represents a Point Normal tag. " alt="" coords="878,208,962,235"/>
+<area shape="rect" id="node17" href="$class_particle_tag.html" title="ParticleTag" alt="" coords="877,259,963,285"/>
+<area shape="rect" id="node18" href="$class_point_tag.html" title="Represents the Point tag. " alt="" coords="883,309,957,336"/>
+<area shape="rect" id="node19" href="$class_polygon_tag.html" title="Represents the Polygon tag. " alt="" coords="875,360,965,387"/>
+<area shape="rect" id="node20" href="$class_segment_tag.html" title="Represents the Segment tag. " alt="" coords="873,411,967,437"/>
+<area shape="rect" id="node21" href="$class_soft_selection_tag.html" title="SoftSelectionTag" alt="" coords="860,461,980,488"/>
+<area shape="rect" id="node22" href="$class_stick_texture_tag.html" title="StickTextureTag" alt="" coords="862,512,978,539"/>
+<area shape="rect" id="node23" href="$class_tangent_tag.html" title="Represents the Spline Tangent tag. " alt="" coords="875,563,965,589"/>
+<area shape="rect" id="node24" href="$class_u_v_w_tag.html" title="UVWTag" alt="" coords="883,613,957,640"/>
+<area shape="rect" id="node25" href="$class_vertex_color_tag.html" title="VertexColorTag" alt="" coords="865,664,975,691"/>
+<area shape="rect" id="node26" href="$class_vertex_map_tag.html" title="Represents the Vertex Map tag. " alt="" coords="867,715,973,741"/>
+</map>

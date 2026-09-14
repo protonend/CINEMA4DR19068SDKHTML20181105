@@ -1,0 +1,27 @@
+var toolsoftselection_8h =
+[
+    [ "MDATA_SOFT_FALLOFF", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fae4978649b15c9d775254bcc3c286c47d", null ],
+    [ "MDATA_SOFT_FALLOFF_LINEAR", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa8cc3294cabf7a5831b4ccf34515a89ac", null ],
+    [ "MDATA_SOFT_FALLOFF_DOME", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa507c56a49155036b2f4a7ca9745790a5", null ],
+    [ "MDATA_SOFT_FALLOFF_BELL", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa14446dff17b220e3c4c6320ef9357c2f", null ],
+    [ "MDATA_SOFT_FALLOFF_CIRCLE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33faac893e921cabfbd37f9a97a1f7e5b499", null ],
+    [ "MDATA_SOFT_FALLOFF_NEEDLE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33faa93cad63e6bfc3dc5af2e35aeff60ae0", null ],
+    [ "MDATA_SOFT_FALLOFF_VMAP", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa222bf0a7578f64c5a329e5d02414e507", null ],
+    [ "MDATA_SOFT_FALLOFF_SPLINE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa96d1caf775aaa52a34c50d25d66d256b", null ],
+    [ "MDATA_SOFT_RADIUS", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fad504fb2ee4b6605503c94dd102a72ad0", null ],
+    [ "MDATA_SOFT_STRENGTH", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fabac67cf89d09ed107f6706c469850d06", null ],
+    [ "MDATA_SOFT_MODE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa13a6d35475af2123b60650b0682bec84", null ],
+    [ "MDATA_SOFT_MODE_GROUPS", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fabaf311515b588c6b2ead28761603fffc", null ],
+    [ "MDATA_SOFT_MODE_CENTER", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa981b6ff30f8d458e24743b696a1f84f9", null ],
+    [ "MDATA_SOFT_MODE_ALL", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33faff8114254b13a1622296d5dd0766560f", null ],
+    [ "MDATA_SOFT_RUBBER", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa6a987d48cfb47cc38ff5ce260776aafd", null ],
+    [ "MDATA_SOFT_SURFACE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33faea60c13ec081bbfc63a733cebdd33380", null ],
+    [ "MDATA_SOFT_WIDTH", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fad722449b4be52565b3c033d2c38b7c23", null ],
+    [ "MDATA_SOFT_SPLINE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fabf933942d042e324e67d34007d2e0df7", null ],
+    [ "MDATA_SOFT_PREVIEW", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa8bcc51612e02223b4c2e870dafcd23c1", null ],
+    [ "MDATA_SOFT_ENABLE", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fad5c223923b9c7f5f6c8b7a2dac11ea67", null ],
+    [ "MDATA_SOFT_RESTRICT", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa0498815405523518d0a91e7ccf07613d", null ],
+    [ "MDATA_SOFT_END", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa1190118080c5e2d2562ec741ab413bbe", null ],
+    [ "MDATA_SOFTSELECTION", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33fa8a1317838eb5f4408f6028eaf3ed71a8", null ],
+    [ "MDATA_SELECTSOFT_", "toolsoftselection_8h.html#a93633a361cd3b88b87c89d7a2b20b33facb2abf2bed015188e14cb8adc4a93b6a", null ]
+];

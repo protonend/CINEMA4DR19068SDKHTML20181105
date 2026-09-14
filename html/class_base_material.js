@@ -1,0 +1,28 @@
+var class_base_material =
+[
+    [ "BaseMaterial", "class_base_material.html#a003503b1ce92b281f5400d1b70cc5fae", null ],
+    [ "~BaseMaterial", "class_base_material.html#a8d10f5046636ccde2e9f164876211d6b", null ],
+    [ "Alloc", "class_base_material.html#a86d0d7762f7c8c3c0a549e9422ae5cbb", null ],
+    [ "Free", "class_base_material.html#ae3a5238c42b5f3c93b79ed3ad8e19f3a", null ],
+    [ "GetNext", "class_base_material.html#a4cc84ed85afbf532b9d8e8010c48afa9", null ],
+    [ "GetPred", "class_base_material.html#a7144ea582b41b6754a353b603f6d834e", null ],
+    [ "Update", "class_base_material.html#a34ef0d9e70e7dfa41c8cb791bac40b3e", null ],
+    [ "GetChannel", "class_base_material.html#aa911e06ebed8cb0fc6a5385a9e3552a6", null ],
+    [ "InitTextures", "class_base_material.html#a4fac910d59b11afc978a3a8ba5de6b52", null ],
+    [ "UnlockTextures", "class_base_material.html#a08aaf51b86e17e411afa6f7de4717b9f", null ],
+    [ "DisplaceEx", "class_base_material.html#a3925bc5fca9eefecdb63f6d7bb267e55", null ],
+    [ "Displace", "class_base_material.html#a151221e7d3889bbf076eb01d47331409", null ],
+    [ "ChangeNormal", "class_base_material.html#a0f7418f776a3431ba976d8402995713c", null ],
+    [ "CalcSurface", "class_base_material.html#a2ac5d458fdb112b11a502b08b7aa8e2a", null ],
+    [ "CalcTransparency", "class_base_material.html#a11e65665b3c16c29b24fc54cf8191d28", null ],
+    [ "CalcAlpha", "class_base_material.html#a1dceb9255e9113d914af778df93d23bd", null ],
+    [ "CalcVolumetric", "class_base_material.html#a088a8184ce724cd05a0058367b14ac1e", null ],
+    [ "InitCalculation", "class_base_material.html#a99f997d54501c0276d9a983e45a4ab0c", null ],
+    [ "Compare", "class_base_material.html#ad3880a8706057cdab40217dd711906cb", null ],
+    [ "GetPreview", "class_base_material.html#a5560781d8bfcf31dba4368d83b09290a", null ],
+    [ "GetRayIllumination", "class_base_material.html#ac416c169d89607048b28ca732815f9b3", null ],
+    [ "GetAverageColor", "class_base_material.html#aa66791de1d3fc348fb4d7f01d2822b28", null ],
+    [ "GetRenderInfo", "class_base_material.html#a98f2f40d2f182f0e8aba05014cd71232", null ],
+    [ "HasEditorTransparency", "class_base_material.html#aa9279fe7823c8e3994ce5d5e33743c26", null ],
+    [ "GlMessage", "class_base_material.html#a16e5aa2ac903c2a18e37d59c54afbdb9", null ]
+];

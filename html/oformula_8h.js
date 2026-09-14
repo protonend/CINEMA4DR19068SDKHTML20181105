@@ -1,0 +1,16 @@
+var oformula_8h =
+[
+    [ "FORMULAOBJECT_FX", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a7fe771551325a1c067ae7b37545e6b41", null ],
+    [ "FORMULAOBJECT_FY", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a0d7723fd134980dbf5fd448e54e70fdb", null ],
+    [ "FORMULAOBJECT_FZ", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a3f2e325c388130f5783b975e453a1a8e", null ],
+    [ "FORMULAOBJECT_SIZE", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a431658b8dc2fdac14a815e70da741071", null ],
+    [ "FORMULAOBJECT_DLT", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a95b7ecd9f590ee2841eb959d146ab529", null ],
+    [ "FORMULAOBJECT_EFFECT", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267af99dbf0e42d99867da13cf9d57db4b74", null ],
+    [ "FOEFFECT_MANUAL", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a338438d5f829be42ab6e4db91fa6bfd6", null ],
+    [ "FOEFFECT_SPHERICAL", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267aaad38f9b893164c5a395b92fcad5132e", null ],
+    [ "FOEFFECT_CYLINDRICAL", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a59280d0f88f8ff88e310e6f5cf5957f6", null ],
+    [ "FOEFFECT_XRADIAL", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a4c521850c0ea7f93964a4213435ee565", null ],
+    [ "FOEFFECT_YRADIAL", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a5d63fe291e8fb529dd42c9863428e682", null ],
+    [ "FOEFFECT_ZRADIAL", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267aadf426730dbd98b7a3345d1acac60f5c", null ],
+    [ "FORMULAOBJECT_FITTOPARENT", "oformula_8h.html#a02b9c8105b11ceb6138e19e394872267a66a0e223219496767532075ae03ba366", null ]
+];

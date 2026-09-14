@@ -1,0 +1,28 @@
+var xuvpeelertool_8h =
+[
+    [ "MDATA_UVPEELER_GROUP_OPTIONS", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a31cf2e03714e316050fae9133a32d46c", null ],
+    [ "MDATA_UVPEELER_MIN_U", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a8706a7fafe0c4c86d8d1b2ef3e2e1088", null ],
+    [ "MDATA_UVPEELER_MIN_V", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a5b89d26bee7c3373269274da18309ced", null ],
+    [ "MDATA_UVPEELER_MAX_U", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a672123e1a762a612dd6a98f94c8cf62a", null ],
+    [ "MDATA_UVPEELER_MAX_V", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a6b062765a40821ec3dd2898c763005fd", null ],
+    [ "MDATA_UVPEELER_U_UNIFORMITY", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a622f36f95d72b8ad8715519414b9bbe7", null ],
+    [ "MDATA_UVPEELER_INFOS_SEAMS", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18abcca71205f7ff6d189b7ab2b78c77753", null ],
+    [ "MDATA_UVPEELER_INFOS_INVALID", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a6e4650b3a44742cd46b8d63bd389366f", null ],
+    [ "MDATA_UVPEELER_GROUP_COMMANDGROUP", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18ac25ad591b9e7a5a1d4e94866f0ce9e3f", null ],
+    [ "MDATA_UVPEELER_APPLY", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a7ed690be5efa113d6ec8c7f9da992830", null ],
+    [ "MDATA_UVPEELER_U_CENTER", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a868ec079175dd650e4054b45cf0784ee", null ],
+    [ "MDATA_UVPEELER_V_CENTER", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a9895a8d3bedf901fa8745881fdc04a3e", null ],
+    [ "MDATA_UVPEELER_U_INVERT", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a3920e7e7e8e31f76619fc100b2b5defd", null ],
+    [ "MDATA_UVPEELER_V_INVERT", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a5748dc611a65e6ae842c957f9e8e5ab1", null ],
+    [ "MDATA_UVPEELER_EQUIDISTANT_UNIFORMITY", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18ade52342fa3e80a146366eff89e114b77", null ],
+    [ "MDATA_UVPEELER_V_UNIFORMITY", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a4cecec2dc10caaa027f3134936cbd677", null ],
+    [ "MDATA_UVPEELER_UV_ISLAND_STORAGE", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18ad029027c6b1a7f0afa0e5ec3ce8ef779", null ],
+    [ "MDATA_UVPEELER_FIXED_RING_LENGTHS", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18adbcd3970ee841223b2ce844600154cca", null ],
+    [ "MDATA_UVPEELER_SINGLE_UV_TILE", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a47130165363cd4c888610c035c4db651", null ],
+    [ "MDATA_UVPEELER_MULTIPLE_UV_TILES", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18affa17de09939a54c1d4ffdca1013d8f1", null ],
+    [ "MDATA_UVPEELER_GROUP_ADVANCED", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18a22ee2a7062a173578afbe9855d778700", null ],
+    [ "MDATA_UVPEELER_AUTO_FIT_TO_SCREEN", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18afd922caf37131411439f38feab9a912e", null ],
+    [ "MDATA_UVPEELER_RESTRICT_TO_TILES", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18ae2eb6ae6356920f5b7d75ecc4b66ed10", null ],
+    [ "MDATA_UVPEELER_INTERACTIVE", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18ac2d9ffdede60a1e5794a4c748044dbd0", null ],
+    [ "MDATA_UVPEELER_RESET", "xuvpeelertool_8h.html#a743e5eb365edcc0842c5a04061a37b18afe98bb5a005583fc385b7fe8cb723bc1", null ]
+];

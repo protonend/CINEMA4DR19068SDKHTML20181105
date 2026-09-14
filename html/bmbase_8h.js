@@ -1,0 +1,6 @@
+var bmbase_8h =
+[
+    [ "MDATA_BRUSHMODIFIERBASE_GROUP", "bmbase_8h.html#aa156d1cebb38c8a65846c4d9c006012aade592da843a6646604816e9da6fb7c6d", null ],
+    [ "MDATA_BRUSHMODIFIERBASE_ENABLED", "bmbase_8h.html#aa156d1cebb38c8a65846c4d9c006012aae4a23d3d4589dc2987a6dbc9d14c102a", null ],
+    [ "MDATA_BRUSHMODIFIERBASE_STRENGTH", "bmbase_8h.html#aa156d1cebb38c8a65846c4d9c006012aa937204c42386b02e26e6421cff03188d", null ]
+];

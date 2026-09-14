@@ -1,0 +1,8 @@
+<map id="ObjectData" name="ObjectData">
+<area shape="rect" id="node4" href="$class_effector_data.html" title="EffectorData" alt="" coords="5,229,99,256"/>
+<area shape="rect" id="node5" href="$classx_base_surface_class.html" title="xBaseSurfaceClass" alt="" coords="123,229,259,256"/>
+<area shape="rect" id="node6" href="$classx_mapped_curve_class.html" title="xMappedCurveClass" alt="" coords="283,229,423,256"/>
+<area shape="rect" id="node7" href="$classx_trimmed_surface_class.html" title="xTrimmedSurfaceClass" alt="" coords="447,229,603,256"/>
+<area shape="rect" id="node2" href="$class_node_data.html" title="NodeData" alt="" coords="233,80,311,107"/>
+<area shape="rect" id="node3" href="$class_base_data.html" title="The base class for all plugin data classes. " alt="" coords="233,5,311,32"/>
+</map>

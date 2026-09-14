@@ -1,0 +1,5 @@
+<map id="CellInfo" name="CellInfo">
+<area shape="rect" id="node2" href="$struct_drag_info.html" title="Tree/List view drag information. " alt="" coords="5,80,75,107"/>
+<area shape="rect" id="node3" href="$struct_draw_info.html" title="Tree/List view draw information. " alt="" coords="99,80,170,107"/>
+<area shape="rect" id="node4" href="$struct_mouse_info.html" title="Tree/List view mouse information. " alt="" coords="194,80,275,107"/>
+</map>

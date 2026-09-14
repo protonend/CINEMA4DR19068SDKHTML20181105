@@ -1,0 +1,25 @@
+var tooledgeselection_8h =
+[
+    [ "MDATA_MWS_OVERRIDE_PHONG", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a0ccd632fe92204541ddd1eccfcfe0d6a", null ],
+    [ "MDATA_MWS_PHONGGROUP", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a9b4547bd5b7a0c94cee8653aedd811a1", null ],
+    [ "MDATA_MWS_ANGLE_THRESHOLD", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a6f64dcd1775d8c2b6142d35c7c786367", null ],
+    [ "MDATA_MWS_USE_PHONGBREAKS", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94ab87bb966a3beb8eeb50fc795cc81ae51", null ],
+    [ "MDATA_MWS_EDGEMODE", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a479d1059cadbe2cb84caa72d849bcb07", null ],
+    [ "MDATA_MWS_EDGEMODE_LOOP", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a1afb00f5af08682a37fa83f61c950d03", null ],
+    [ "MDATA_MWS_EDGEMODE_GUIDED", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a8a98629dbcaa0f8f8c767f9c9750a637", null ],
+    [ "MDATA_MWS_EDGEMODE_SHARP", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94af1e8c9e3112237e390dc9b0d7baaa224", null ],
+    [ "MDATA_MWS_EDGEMODE_LINE", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a2cd116ef97b02b02522e113af39db679", null ],
+    [ "MDATA_MWS_EDGEMODE_LINE2", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a32de7a0d3ceaccaddea0d97fda26ae50", null ],
+    [ "MDATA_MWS_SP_LENWEIGHT", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a9e83690a91276c9525c65fa67dce8c4e", null ],
+    [ "MDATA_MWS_SP_PHONGWEIGHT", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94af5ca76d2041784d8e66f5d0b0c2a56d5", null ],
+    [ "MDATA_MWS_SP_ANGLEWEIGHT", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a38e401f207b58c2111f2412634828b65", null ],
+    [ "MDATA_MWS_SP_QUADWEIGHT", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a1dcaa9c0ffc7ff9f6bd2138c7f1b07f5", null ],
+    [ "MDATA_MWS_ADD_TO_SEL", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a95a1d10a3ef1e40d65737afd2200117f", null ],
+    [ "MWS_BTN_SELECT_ALL", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a6d73fa36f03db7c957a0aee327413014", null ],
+    [ "MWS_TAG_GROUP", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94ab6f149759384b727349e2d14ba08a346", null ],
+    [ "MWS_TAG_LINK", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94af19d4d8aeb6fb7e67ad40b26e445a53b", null ],
+    [ "MWS_TAG_SET_SEL", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a6f81c7f0eff50b90c7e86d93a2039cb7", null ],
+    [ "MWS_TAG_ADD_SEL", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a3797cb16330c897d4fee6156a249f731", null ],
+    [ "MWS_TAG_REM_SEL", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94ab7c393368814b4d2187a540288b8320f", null ],
+    [ "MWS_TAG_AUTO_SET_SEL", "tooledgeselection_8h.html#a17a853d85737f4b4fbd4275333f67b94a302ff27a77b3dd559f6e6b2783910096", null ]
+];

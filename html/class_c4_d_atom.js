@@ -1,0 +1,28 @@
+var class_c4_d_atom =
+[
+    [ "C4DAtom", "class_c4_d_atom.html#acd872be23bbb1769fc8ac3e578f6d71c", null ],
+    [ "~C4DAtom", "class_c4_d_atom.html#aa963cf41e08cc20e7ab62adbecfa4b2d", null ],
+    [ "GetType", "class_c4_d_atom.html#a9377852c90e5e1a9ba1462271a17de99", null ],
+    [ "GetRealType", "class_c4_d_atom.html#abf506ccb24023d3084b9e8a203286b99", null ],
+    [ "GetDiskType", "class_c4_d_atom.html#a97d971a05a81c188fac89e2de0b051fb", null ],
+    [ "IsInstanceOf", "class_c4_d_atom.html#aea1d4a2f0087bd55724c6e06e7119f40", null ],
+    [ "GetClassification", "class_c4_d_atom.html#a5d6f00c35397d52484e854b69cd953c0", null ],
+    [ "Message", "class_c4_d_atom.html#a89b4a7026485f0a69fd6595623a491f6", null ],
+    [ "MultiMessage", "class_c4_d_atom.html#afe6d07cc86f15938a233a35c2f56b476", null ],
+    [ "GetClone", "class_c4_d_atom.html#a79d8a065f84b829ba4f930071c775e71", null ],
+    [ "CopyTo", "class_c4_d_atom.html#a6c14f560d3559fcb2107002b88a061b8", null ],
+    [ "Read", "class_c4_d_atom.html#a60836325e0cc002182a87756288c9614", null ],
+    [ "Write", "class_c4_d_atom.html#a47194db3ace072ecffccd2e1a71e7238", null ],
+    [ "ReadObject", "class_c4_d_atom.html#a42b3432e1927d608a01f680ef0a9accc", null ],
+    [ "WriteObject", "class_c4_d_atom.html#a5f4cd7b8ed070f6287737e65d75cb3ff", null ],
+    [ "GetDescription", "class_c4_d_atom.html#a3c94802373ce67591f8991a8672f1a2a", null ],
+    [ "GetParameter", "class_c4_d_atom.html#a9bb99bdc8cb7cad3d5a2b544438aa829", null ],
+    [ "SetParameter", "class_c4_d_atom.html#a1d4d31be513de2c8e005582e063977e3", null ],
+    [ "GetDynamicDescription", "class_c4_d_atom.html#a00bd9b7f0cd0a28979606ba9d7fd9acc", null ],
+    [ "GetEnabling", "class_c4_d_atom.html#af023a76972509953f6289e2b8acccb84", null ],
+    [ "TranslateDescID", "class_c4_d_atom.html#ac1e87c54a21dc5024b7694e41d66577e", null ],
+    [ "GetDirty", "class_c4_d_atom.html#a5ac82ad49ad02242398aa01ef731f524", null ],
+    [ "SetDirty", "class_c4_d_atom.html#aad37821290b4c95ced482cbcb1b3f495", null ],
+    [ "GetHDirty", "class_c4_d_atom.html#adb18ef3048a819f498ce33c8ea5f0f79", null ],
+    [ "SetHDirty", "class_c4_d_atom.html#a4d72f30974f3701e781777d8ae9c536f", null ]
+];

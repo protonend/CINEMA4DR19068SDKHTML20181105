@@ -1,0 +1,27 @@
+var group___f_i_l_t_e_r =
+[
+    [ "FILTER_TIF", "group___f_i_l_t_e_r.html#ga0cfc6804dd292d6094fd66a9dde3a234", null ],
+    [ "FILTER_TGA", "group___f_i_l_t_e_r.html#gad7fe936793be5efd7f19b4aeb326ed99", null ],
+    [ "FILTER_BMP", "group___f_i_l_t_e_r.html#ga4116b009190fa389fd246bdc4b924708", null ],
+    [ "FILTER_IFF", "group___f_i_l_t_e_r.html#gaa3312b9686cc201cf7c28ec0a55ec7e4", null ],
+    [ "FILTER_JPG", "group___f_i_l_t_e_r.html#ga9cb5002dbb6846d32397e0950d201d85", null ],
+    [ "FILTER_PICT", "group___f_i_l_t_e_r.html#ga06af152a112b93ff26055e136c56ca69", null ],
+    [ "FILTER_PSD", "group___f_i_l_t_e_r.html#ga7a3188d32a9c998f3340fb861ff2f0e4", null ],
+    [ "FILTER_RLA", "group___f_i_l_t_e_r.html#ga0674ac35b7fc41dfb68c8af0ae512e0e", null ],
+    [ "FILTER_RPF", "group___f_i_l_t_e_r.html#ga8bc0c3898ae1252172fb1af02711d723", null ],
+    [ "FILTER_B3D", "group___f_i_l_t_e_r.html#ga001173645e7df065e95301673e853dbb", null ],
+    [ "FILTER_TIF_B3D", "group___f_i_l_t_e_r.html#gaac9e75577103a1343e6047f1845be37c", null ],
+    [ "FILTER_PSB", "group___f_i_l_t_e_r.html#ga873d972e43dd2c3687ae732e386cc1c3", null ],
+    [ "FILTER_AVI", "group___f_i_l_t_e_r.html#gad3a68f15b79f0166cdb80b931e17aaa3", null ],
+    [ "FILTER_MOVIE", "group___f_i_l_t_e_r.html#gac53471711c689b62c4ea199c02b39ee7", null ],
+    [ "DEPRECATED_FILTER_QTVRSAVER_PANORAMA", "group___f_i_l_t_e_r.html#ga9485ac5485ca48bd8980ace8e8ecbb80", null ],
+    [ "DEPRECATED_FILTER_QTVRSAVER_OBJECT", "group___f_i_l_t_e_r.html#gadbf74f58ed4f40a5f436ce0157b414f9", null ],
+    [ "FILTER_HDR", "group___f_i_l_t_e_r.html#ga5abf8d33fa32b5e689627c8e8fb2fe40", null ],
+    [ "FILTER_EXR_LOAD", "group___f_i_l_t_e_r.html#gad1438800625c80da674a94430f823c7e", null ],
+    [ "FILTER_EXR", "group___f_i_l_t_e_r.html#ga27e22f12e3e073f3199ab559ea7b8071", null ],
+    [ "FILTER_PNG", "group___f_i_l_t_e_r.html#ga1f5fc81e4a86a0de316a5ff2d19f3bfb", null ],
+    [ "FILTER_IES", "group___f_i_l_t_e_r.html#ga701494be3d8d9dadd4dbcbd8193b8918", null ],
+    [ "FILTER_B3DNET", "group___f_i_l_t_e_r.html#ga8b5f2da8b3cc6f2d47aaf7d75ddbf02f", null ],
+    [ "FILTER_DPX", "group___f_i_l_t_e_r.html#gae8ba458353e9db1710325872425f63c2", null ],
+    [ "FILTER_DDS", "group___f_i_l_t_e_r.html#ga9ad9237516bcce76af72d3f4c0ebbaf0", null ]
+];

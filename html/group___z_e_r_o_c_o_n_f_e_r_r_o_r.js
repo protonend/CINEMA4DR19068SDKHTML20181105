@@ -1,0 +1,36 @@
+var group___z_e_r_o_c_o_n_f_e_r_r_o_r =
+[
+    [ "ZEROCONFERROR", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#ga0aa8b104b8e0a8552603c6149029c860", [
+      [ "ZEROCONFERROR_NOERROR", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860af20703285d29643f764d607e4b0a554d", null ],
+      [ "ZEROCONFERROR_UNKNOWN", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a1feb3aed86046cb12378d032cd209b11", null ],
+      [ "ZEROCONFERROR_NOSUCHNAME", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a64159a9b82f3e56c4279bd2c1bf39842", null ],
+      [ "ZEROCONFERROR_NOMEMORY", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a7749cf5d90165bb190a34094bb7b1c88", null ],
+      [ "ZEROCONFERROR_BADPARAM", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a3d15b06c92abc44531250337a5cc52ab", null ],
+      [ "ZEROCONFERROR_BADREFERENCE", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860aeee0d5b5ac3b265b8a5dcd19d0807ac3", null ],
+      [ "ZEROCONFERROR_BADSTATE", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a97d7f8a2b5641aa40a1342dcc5a38f03", null ],
+      [ "ZEROCONFERROR_BADFLAGS", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860aba76372928274ddbbbd739fb3d5ff2be", null ],
+      [ "ZEROCONFERROR_UNSUPPORTED", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a4d74213cdc75e1596b47ffcadd4e3f2a", null ],
+      [ "ZEROCONFERROR_NOTINITIALIZED", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a8ab2836700e5ac475f6a38f0115da72a", null ],
+      [ "ZEROCONFERROR_ALREADYREGISTERED", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a6f9500ca13870b4fc564ff276d92806a", null ],
+      [ "ZEROCONFERROR_NAMECONFLICT", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860aa30730d85afdae00157b352baaf5da58", null ],
+      [ "ZEROCONFERROR_INVALID", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a6dfcfac7167d19ad738106a0a09a4563", null ],
+      [ "ZEROCONFERROR_FIREWALL", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860aca949a257011ea2f75b53e2962632eb0", null ],
+      [ "ZEROCONFERROR_INCOMPATIBLE", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a863364174c3d2924c9458ed8ea451990", null ],
+      [ "ZEROCONFERROR_BADINTERFACEINDEX", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860ac5b92b8d9d98089185c035110e884714", null ],
+      [ "ZEROCONFERROR_REFUSED", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a3d7cffd75d5d2af5f59a1f53c313b932", null ],
+      [ "ZEROCONFERROR_NOSUCHRECORD", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860aabbb4020b5bb3b840fbe3003335f52e9", null ],
+      [ "ZEROCONFERROR_NOAUTH", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a35c16c24cef243ea0ed4672e1526b687", null ],
+      [ "ZEROCONFERROR_NOSUCHKEY", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a05a59d1ffdc916569fe480a4e758824b", null ],
+      [ "ZEROCONFERROR_NATTRAVERSAL", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a67fa4acf69a17f0f42d02e10876aa133", null ],
+      [ "ZEROCONFERROR_DOUBLENAT", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860af2bf7d0af11013f96b15f5c2df833137", null ],
+      [ "ZEROCONFERROR_BADTIME", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860af0e30c9a0eeecd2351b94c3fe748a187", null ],
+      [ "ZEROCONFERROR_BADSIG", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860ad04ba20b6b4536f85e77ae74b0a7e3ff", null ],
+      [ "ZEROCONFERROR_BADKEY", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a6630fae22222da63a845c6b0f448da7f", null ],
+      [ "ZEROCONFERROR_TRANSIENT", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a837725a0887e354e8abecbfc4162a626", null ],
+      [ "ZEROCONFERROR_SERVICENOTRUNNING", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a529db30f30a150b75c312e677e7b5463", null ],
+      [ "ZEROCONFERROR_NATPORTMAPPINGUNSUPPORTED", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a404c74f397ea852f46e7939ba55200f2", null ],
+      [ "ZEROCONFERROR_NATPORTMAPPINGDISABLED", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860afd8896f5bf922f1fdad42ecf9b61c269", null ],
+      [ "ZEROCONFERROR_NOROUTER", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a809c5f82248c3309de8ac95b545502f1", null ],
+      [ "ZEROCONFERROR_POLLINGMODE", "group___z_e_r_o_c_o_n_f_e_r_r_o_r.html#gga0aa8b104b8e0a8552603c6149029c860a21981d75ae12d28fae2972cac5db9609", null ]
+    ] ]
+];

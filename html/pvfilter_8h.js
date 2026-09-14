@@ -1,0 +1,26 @@
+var pvfilter_8h =
+[
+    [ "ID_PV_PROPERTIES", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da9755baa98717a811d41fcebd9cb96142", null ],
+    [ "ID_PV_FILTER_GAMMA", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dae3d4b35307ca8bacb1b97c441a3ba91c", null ],
+    [ "ID_PV_FILTER_CONTRAST", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dab0e9a2ea87da4d3aacf7e064b565f5c0", null ],
+    [ "ID_PV_FILTER_BRIGHTNESS", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4daf413185c6ea1d458dfa170d8125f584b", null ],
+    [ "ID_PV_FILTER_RED", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4daaca9a31f3e3f555e9d1c8206010852c1", null ],
+    [ "ID_PV_FILTER_GREEN", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dac25a2496aad3798142bae508297f53b7", null ],
+    [ "ID_PV_FILTER_BLUE", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da4a74ace2a248b89d6def6144f972f931", null ],
+    [ "ID_PV_FILTER_SATURATION", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da833d89d2d7bd8005e7bb0a5bc796859b", null ],
+    [ "ID_PV_FILTER_EXPOSURE", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da47db9d4f5c2baee85f27573d24ad8bfd", null ],
+    [ "ID_PV_FILTER_BLACKPOINT", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dad5fe28a4f7307f920af03cc359e6ce97", null ],
+    [ "ID_PV_FILTER_WHITEPOINT", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da909b3cab88bbc9e271d1cf28383bc3bc", null ],
+    [ "ID_PV_FILTER_INVERT", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da6d1fb0eeb14dfea1204c13e51f6acfbb", null ],
+    [ "ID_PV_FILTER_GRAD_INTENSITY", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da9a1e6c24c18b7fd29c04670544ddf3a9", null ],
+    [ "ID_PV_FILTER_GRAD_AFFECTBG", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4daaa81a1735a7fd2ff3360f2d927aa7d69", null ],
+    [ "ID_PV_FILTER_GRAD_SPLINE_RGB", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da1d42831cabad04bd73214c1b1fdde9cb", null ],
+    [ "ID_PV_FILTER_GRAD_SPLINE_GROUP", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dae7ae4a0c7c2c6ceef17972301517961c", null ],
+    [ "ID_PV_FILTER_GRAD_SPLINE_R", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dae4a7f6fff6920d608f5dbc91d35f1dfe", null ],
+    [ "ID_PV_FILTER_GRAD_SPLINE_G", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da915619e71b409e47048079d9f4c149ac", null ],
+    [ "ID_PV_FILTER_GRAD_SPLINE_B", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4da0a3ce0d91d4940e65e20c5bac0e03f07", null ],
+    [ "ID_PV_FILTER_GRAD_MIN", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dadca220081763d499e2bfd8b3979d1503", null ],
+    [ "ID_PV_FILTER_GRAD_MAX", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4daa05a01b0adbbf8d64917021ec2b94d86", null ],
+    [ "ID_PV_FILTER_RESET", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4daef5c419bfc6c0995ba087e6dcb02bfc4", null ],
+    [ "ID_PV_FILTER_OTHER", "pvfilter_8h.html#ae9def3340acf773036b9d7266779af4dacd28e8921724831835a8b7e80b3a2fa3", null ]
+];

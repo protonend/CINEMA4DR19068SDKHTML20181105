@@ -1,0 +1,36 @@
+var group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e =
+[
+    [ "SUBSTANCE_OUTPUT_TYPE", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#ga3b43bf6244d7eceb84a012b0154c0354", [
+      [ "DIFFUSE", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a84a9d8c4d046cae1f87af62f45f07e68", null ],
+      [ "BASECOLOR", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a8cc305cbf534a77ef5118ab7ec5ff7c2", null ],
+      [ "OPACITY", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a4d286e1216d180f5f91b4098ae1be251", null ],
+      [ "EMISSIVE", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a91520e2b2b496ddf92e7ed320df5027b", null ],
+      [ "AMBIENT", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354ae2efd91581bab719d6c67ea43d1afd9b", null ],
+      [ "AMBIENTOCCLUSION", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a20831d0910206476ac67c52beac78bc0", null ],
+      [ "MASK", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a0a9501840acacfc8efe7522f5340000c", null ],
+      [ "NORMAL", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a1e23852820b9154316c7c06e2b7ba051", null ],
+      [ "BUMP", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a38ddfe7168891723e977a47876971baf", null ],
+      [ "HEIGHT", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354ad770ba3ce18fa409965dfdf5e7c348e6", null ],
+      [ "DISPLACEMENT", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a588d9cf9baadd390793d7bd46ae3d3a8", null ],
+      [ "SPECULAR", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a0df54c320628149300093da5e2ff693d", null ],
+      [ "SPECULARLEVEL", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a52e29146feb8859e145264e55f3879a7", null ],
+      [ "SPECULARCOLOR", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a38b3819775736484135350958ec0c874", null ],
+      [ "GLOSSINESS", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a734ae954c47ff1cca41a81915c62212f", null ],
+      [ "ROUGHNESS", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354abf5c531ee75e16c07e4a1182fce1a47a", null ],
+      [ "ANISOTROPYLEVEL", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a37136aff03b2be41b05715bbeee70013", null ],
+      [ "ANISOTROPYANGLE", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a641ac11316aae24c05b371071a0e8dd0", null ],
+      [ "TRANSMISSIVE", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a0f330b4f143f59ba086bea9ac91cd52d", null ],
+      [ "REFLECTION", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354aea337f99e850e6357edb2a5eb89482bf", null ],
+      [ "REFRACTION", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a295c955c204718fc0d3ff04d9dafe1fc", null ],
+      [ "ENVIRONMENT", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a889a65415d92b72cffa7df3f8ecf13f9", null ],
+      [ "IOR", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a9d1219c523ebd42dc1c2cd0ce6c97375", null ],
+      [ "SCATTERING0", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354ac89e99bbe3818c338443d0dfef051307", null ],
+      [ "SCATTERING1", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a3e6f6ada468c008338d86e24140a28a9", null ],
+      [ "SCATTERING2", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354af7920f00fe25778a422083fea8abbd83", null ],
+      [ "SCATTERING3", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a1b976d8be5aa9ba6b640234882a7e4f3", null ],
+      [ "METALLIC", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354ae1de2f8ecef0686f39a10632b2c1508e", null ],
+      [ "ANY", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a8e1bde3c3d303163521522cf1d62f21f", null ],
+      [ "UNKNOWN", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a696b031073e74bf2cb98e5ef201d4aa3", null ],
+      [ "INTERNAL_COUNT", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html#gga3b43bf6244d7eceb84a012b0154c0354a0fd252f947f07ca0b7b739d93f578faa", null ]
+    ] ]
+];

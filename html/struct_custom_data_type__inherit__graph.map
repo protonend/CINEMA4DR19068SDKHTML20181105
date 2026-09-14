@@ -1,0 +1,25 @@
+<map id="CustomDataType" name="CustomDataType">
+<area shape="rect" id="node2" href="$class_bitmap_button_struct.html" title="BitmapButtonStruct" alt="" coords="203,5,339,32"/>
+<area shape="rect" id="node3" href="$class_color_profile.html" title="ColorProfile" alt="" coords="227,56,315,83"/>
+<area shape="rect" id="node4" href="$class_date_time_data.html" title="DateTimeData" alt="" coords="219,107,323,133"/>
+<area shape="rect" id="node5" href="$class_font_data.html" title="FontData" alt="" coords="234,157,309,184"/>
+<area shape="rect" id="node6" href="$class_gradient.html" title="Gradient" alt="" coords="236,208,307,235"/>
+<area shape="rect" id="node7" href="$class_hyper_link_data.html" title="Hyper link custom data (CUSTOMDATATYPE_HYPER_LINK_STATIC) for use with HyperLinkCustomGui. " alt="" coords="218,259,325,285"/>
+<area shape="rect" id="node8" href="$structi_custom_data_type.html" title="iCustomDataType\&lt; X \&gt;" alt="" coords="193,309,349,336"/>
+<area shape="rect" id="node9" href="$structi_custom_data_type.html" title="iCustomDataType\&lt; DescID \&gt;" alt="" coords="176,360,367,387"/>
+<area shape="rect" id="node11" href="$class_in_exclude_data.html" title="InExclude custom data type (CUSTOMDATATYPE_INEXCLUDE_LIST). " alt="" coords="218,411,325,437"/>
+<area shape="rect" id="node12" href="$class_item_tree_data.html" title="ItemTreeData" alt="" coords="222,461,321,488"/>
+<area shape="rect" id="node13" href="$class_kerning_data.html" title="KerningData" alt="" coords="225,512,318,539"/>
+<area shape="rect" id="node14" href="$class_layer_set.html" title="Layer set custom data type (CUSTOMDATATYPE_LAYERSET). " alt="" coords="234,563,309,589"/>
+<area shape="rect" id="node15" href="$class_lens_glow_struct.html" title="Lens Glow data type (CUSTOMDATATYPE_LENSGLOW) for use with LensGlowCustomGui. " alt="" coords="214,613,329,640"/>
+<area shape="rect" id="node16" href="$class_list_view_data.html" title="ListViewData" alt="" coords="222,664,321,691"/>
+<area shape="rect" id="node17" href="$class_mat_assign_data.html" title="Material assignment custom data type (CUSTOMDATATYPE_MATASSIGN). " alt="" coords="216,715,327,741"/>
+<area shape="rect" id="node18" href="$class_material_preview_data.html" title="Material preview data type (CUSTOMDATATYPE_MATPREVIEW) for MaterialPreviewCustomGui. " alt="" coords="202,765,341,792"/>
+<area shape="rect" id="node19" href="$class_p_l_a_data.html" title="PLA custom data type (CUSTOMDATATYPE_PLA) for PLA tracks. " alt="" coords="234,816,309,843"/>
+<area shape="rect" id="node20" href="$class_priority_data.html" title="Priority custom data type (CUSTOMGUI_PRIORITY_DATA). " alt="" coords="226,867,317,893"/>
+<area shape="rect" id="node21" href="$class_range_data.html" title="RangeData" alt="" coords="228,917,315,944"/>
+<area shape="rect" id="node22" href="$class_sound_effector_data.html" title="SoundEffectorData" alt="" coords="206,968,337,995"/>
+<area shape="rect" id="node23" href="$class_spline_data.html" title="SplineData" alt="" coords="229,1019,314,1045"/>
+<area shape="rect" id="node24" href="$class_unit_scale_data.html" title="UnitScaleData" alt="" coords="219,1069,324,1096"/>
+<area shape="rect" id="node10" href="$class_desc_i_d.html" title="DescID" alt="" coords="415,360,479,387"/>
+</map>

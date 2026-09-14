@@ -1,0 +1,35 @@
+var group__group__substancelibrary =
+[
+    [ "SUBSTANCE_IMPORT_COPY", "group___s_u_b_s_t_a_n_c_e___i_m_p_o_r_t___c_o_p_y.html", "group___s_u_b_s_t_a_n_c_e___i_m_p_o_r_t___c_o_p_y" ],
+    [ "SUBSTANCE_IMPORT_RESULT", "group___s_u_b_s_t_a_n_c_e___i_m_p_o_r_t___r_e_s_u_l_t.html", "group___s_u_b_s_t_a_n_c_e___i_m_p_o_r_t___r_e_s_u_l_t" ],
+    [ "SUBSTANCE_INPUT_TYPE", "group___s_u_b_s_t_a_n_c_e___i_n_p_u_t___t_y_p_e.html", "group___s_u_b_s_t_a_n_c_e___i_n_p_u_t___t_y_p_e" ],
+    [ "SUBSTANCE_MATERIAL_MODE", "group___s_u_b_s_t_a_n_c_e___m_a_t_e_r_i_a_l___m_o_d_e.html", "group___s_u_b_s_t_a_n_c_e___m_a_t_e_r_i_a_l___m_o_d_e" ],
+    [ "SUBSTANCE_OUTPUT_TYPE", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e.html", "group___s_u_b_s_t_a_n_c_e___o_u_t_p_u_t___t_y_p_e" ],
+    [ "Substance Command IDs", "group__group__substance__command__ids.html", "group__group__substance__command__ids" ],
+    [ "Substance Message IDs", "group__group__substance__message__ids.html", "group__group__substance__message__ids" ],
+    [ "Substance Plugin IDs", "group__group__substance__plugin__ids.html", "group__group__substance__plugin__ids" ],
+    [ "SubstanceShdGetBitmap", "struct_substance_shd_get_bitmap.html", [
+      [ "SubstanceShdGetBitmap", "struct_substance_shd_get_bitmap.html#ad5ef204b2d48393c0b218129ba12fce4", null ],
+      [ "_pBmp", "struct_substance_shd_get_bitmap.html#a195a1c4898d0ffe7658249fb91bdfd56", null ],
+      [ "_bmpflags", "struct_substance_shd_get_bitmap.html#af7d64f51302321f028be8d3dba74cd81", null ]
+    ] ],
+    [ "ImportSubstance", "group__group__substancelibrary.html#ga322273657609bffca73a97e5743d4f19", null ],
+    [ "CreateMaterial", "group__group__substancelibrary.html#ga6a9ff7265eb2565c0f4a4c27985caf83", null ],
+    [ "CreateSubstanceShader", "group__group__substancelibrary.html#ga49db41d3f207fcb47d9ebaf606da1ef6", null ],
+    [ "AssignChannelToMaterial", "group__group__substancelibrary.html#gafc309aed9d505cfe0d1c896b98ae7ce6", null ],
+    [ "GetFirstSubstance", "group__group__substancelibrary.html#gadc52e0eb7d877ed51d54e75055b03190", null ],
+    [ "GetSubstances", "group__group__substancelibrary.html#ga2c078830902be6053619434f99d0e5bb", null ],
+    [ "InsertLastSubstance", "group__group__substancelibrary.html#gace8a91be87069b97a71df9969860e431", null ],
+    [ "GetSubstanceGraph", "group__group__substancelibrary.html#gaf11b4101092caaf2053597dd94c20e2d", null ],
+    [ "GetSubstanceInput", "group__group__substancelibrary.html#gaa596b112638fef74abf0604841c27711", null ],
+    [ "GetSubstanceOutput", "group__group__substancelibrary.html#gadffd757146fe86ca8bf840e6e4e25ded", null ],
+    [ "PrefsGetMaterialModeSetting", "group__group__substancelibrary.html#ga19fde70fb0cb62f84bfabc3d4d0de34e", null ],
+    [ "PrefsGetPreviewSetting", "group__group__substancelibrary.html#gacda6b4dec43bde837ff0f310f8f34161", null ],
+    [ "MaterialUsesSubstance", "group__group__substancelibrary.html#ga432e4499f32d7c8c9d998161e421fd2d", null ],
+    [ "GetSubstanceMosaicPreview", "group__group__substancelibrary.html#ga374ba0c5ca474cbd0a5edc7b60ef1e1a", null ],
+    [ "UpdateImageInputPaths", "group__group__substancelibrary.html#ga8ab4d73298a6eb1f43ce48326192320c", null ],
+    [ "CloneReferencedSubstances", "group__group__substancelibrary.html#ga7004148cf390466dcd605b19b9c7f717", null ],
+    [ "CloneReferencedSubstancesObject", "group__group__substancelibrary.html#ga8667e11afea95e5f81088175a1e6d0d4", null ],
+    [ "InsertSubstancePreviewScene", "group__group__substancelibrary.html#ga16a43c816df15851a9d2b55558b74bef", null ],
+    [ "GetContentBrowserOverlay", "group__group__substancelibrary.html#ga00da54a59aca27de3a6a3cd7bb4dda00", null ]
+];

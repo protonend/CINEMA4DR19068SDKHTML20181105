@@ -1,0 +1,25 @@
+var group___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s =
+[
+    [ "BASE_CUSTOMGUISETTINGS", "group___b_a_s_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___b_a_s_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "BITMAPBOOL_CUSTOMGUISETTINGS", "group___b_i_t_m_a_p_b_o_o_l___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___b_i_t_m_a_p_b_o_o_l___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "BITMAPBUTTON_CUSTOMGUISETTINGS", "group___b_i_t_m_a_p_b_u_t_t_o_n___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___b_i_t_m_a_p_b_u_t_t_o_n___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "DATETIME_CUSTOMGUISETTINGS", "group___d_a_t_e_t_i_m_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___d_a_t_e_t_i_m_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "DESCRIPTIONPROPERTY_CUSTOMGUISETTINGS", "group___d_e_s_c_r_i_p_t_i_o_n_p_r_o_p_e_r_t_y___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___d_e_s_c_r_i_p_t_i_o_n_p_r_o_p_e_r_t_y___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "DESCRIPTION_CUSTOMGUISETTINGS", "group___d_e_s_c_r_i_p_t_i_o_n___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___d_e_s_c_r_i_p_t_i_o_n___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "FILENAME_CUSTOMGUISETTINGS", "group___f_i_l_e_n_a_m_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___f_i_l_e_n_a_m_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "FONTCHOOSER_CUSTOMGUISETTINGS", "group___f_o_n_t_c_h_o_o_s_e_r___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", null ],
+    [ "GRADIENTPROPERTY_CUSTOMGUISETTINGS", "group___g_r_a_d_i_e_n_t_p_r_o_p_e_r_t_y___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___g_r_a_d_i_e_n_t_p_r_o_p_e_r_t_y___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "HYPERLINK_CUSTOMGUISETTINGS", "group___h_y_p_e_r_l_i_n_k___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___h_y_p_e_r_l_i_n_k___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "IN_EXCLUDE_CUSTOMGUISETTINGS", "group___i_n___e_x_c_l_u_d_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___i_n___e_x_c_l_u_d_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "LINKBOX_CUSTOMGUISETTINGS", "group___l_i_n_k_b_o_x___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", null ],
+    [ "LONG_LAT_CUSTOMGUISETTINGS", "group___l_o_n_g___l_a_t___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___l_o_n_g___l_a_t___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "MATASSIGN_CUSTOMGUISETTINGS", "group___m_a_t_a_s_s_i_g_n___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___m_a_t_a_s_s_i_g_n___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "MATPREVIEW_CUSTOMGUISETTINGS", "group___m_a_t_p_r_e_v_i_e_w___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___m_a_t_p_r_e_v_i_e_w___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "PRIORITY_CUSTOMGUISETTINGS", "group___p_r_i_o_r_i_t_y___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___p_r_i_o_r_i_t_y___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "QUICKTAB_CUSTOMGUISETTINGS", "group___q_u_i_c_k_t_a_b___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___q_u_i_c_k_t_a_b___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "RANGECUSTOMGUI_CUSTOMGUISETTINGS", "group___r_a_n_g_e_c_u_s_t_o_m_g_u_i___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", null ],
+    [ "TEXBOX_CUSTOMGUISETTINGS", "group___t_e_x_b_o_x___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___t_e_x_b_o_x___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "TREEVIEW_CUSTOMGUISETTINGS", "group___t_r_e_e_v_i_e_w___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___t_r_e_e_v_i_e_w___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "UNITSCALE_CUSTOMGUISETTINGS", "group___u_n_i_t_s_c_a_l_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___u_n_i_t_s_c_a_l_e___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ],
+    [ "VECTOR2D_CUSTOMGUISETTINGS", "group___v_e_c_t_o_r2_d___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s.html", "group___v_e_c_t_o_r2_d___c_u_s_t_o_m_g_u_i_s_e_t_t_i_n_g_s" ]
+];

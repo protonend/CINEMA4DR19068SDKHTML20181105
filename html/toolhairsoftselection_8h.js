@@ -1,0 +1,28 @@
+var toolhairsoftselection_8h =
+[
+    [ "HAIR_SOFTSELECTION", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa350b25ac8020f0597ffe1b17de31a68f", null ],
+    [ "HAIR_SOFTSELECTION_STRENGTH", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaab54ba0895b1b5bf3810399a7e2058ff", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaead1955fc0fc4468043257f947c87142", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_CURVE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa331e9ee3c37620d8a8ed2957f0f3dbbc", null ],
+    [ "HAIR_SOFTSELECTION_WIDTH", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa5c1b184bfb69c6aa001bb0d527c7c4ab", null ],
+    [ "HAIR_SOFTSELECTION_TYPE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa4ed5a9bb98d2e609406c191f32014cf2", null ],
+    [ "HAIR_SOFTSELECTION_RADIUS", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaab434e10e164bec94bb8839e5328c3a58", null ],
+    [ "HAIR_SOFTSELECTION_SPACE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa977d7d893e603f8820f5ca32f68a82d9", null ],
+    [ "HAIR_SOFTSELECTION_PREVIEW", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaae89f541a6f716f7f0715a7e95889d0da", null ],
+    [ "HAIR_SOFTSELECTION_CLIP", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa6be646650f8f80d67d904dd33a6d7bb0", null ],
+    [ "HAIR_SOFTSELECTION_TWEAK", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaba2fde3e86a7d867168c5652ca4bcdf2", null ],
+    [ "HAIR_SOFTSELECTION_VISIBLE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa7b44d79ab485306138869d21efb61b30", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_NONE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaba1fa363273aac577040f1e73be7e41c", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_LINEAR", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa8c97b6b7aa59b76fd1b2e64b714a24c0", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_DOME", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaabc5fe10366f7e7a6c7a2d4311482b34e", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_BELL", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaae13f88df50727e4eb17d1b7c5dadb915", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_CIRCLE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaae1270d6648db1fe50458a208fba3b766", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_NEEDLE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa820309427ea46559e6b8b250bf01794d", null ],
+    [ "HAIR_SOFTSELECTION_FALLOFF_SPLINE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa3711f05b1161267d2f0078d0126ae9d7", null ],
+    [ "HAIR_SOFTSELECTION_TYPE_SINGLE", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaee719c25a4e81433db509b45f502c160", null ],
+    [ "HAIR_SOFTSELECTION_TYPE_VOLUME", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa88137f9338856411688de06de1ea624c", null ],
+    [ "HAIR_SOFTSELECTION_TYPE_ROOT", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa5e7b1104bba0664980353d641ad1e23b", null ],
+    [ "HAIR_SOFTSELECTION_SPACE_WORLD", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaa3a520ec9d831079a3b49c7119a1a0f75", null ],
+    [ "HAIR_SOFTSELECTION_SPACE_SCREEN", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaa2f8be18d70305d7f19cbe845b5151d2", null ],
+    [ "HAIR_SOFTSELECTION_DUMMY", "toolhairsoftselection_8h.html#a6d39445ff2072dcc1b74edc609b51bcaaacacc6a559952e75b7a1f2f5b4eb0356", null ]
+];

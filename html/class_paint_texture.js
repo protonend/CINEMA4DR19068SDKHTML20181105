@@ -1,0 +1,25 @@
+var class_paint_texture =
+[
+    [ "PaintTexture", "class_paint_texture.html#a92baf7ab96bb990a41a85007458ee513", null ],
+    [ "~PaintTexture", "class_paint_texture.html#ade733fd2064289a3106ee514526f0a5f", null ],
+    [ "GetFirstLayer", "class_paint_texture.html#a39c617212f39eb889e0e0e2c2e434136", null ],
+    [ "GetLastLayer", "class_paint_texture.html#a6c258c7d7dac4a2f6688ab08c4e0fe90", null ],
+    [ "AddLayerBmp", "class_paint_texture.html#ac84b4edcf1fad9a07ee9dab141bc390c", null ],
+    [ "AddLayerFolder", "class_paint_texture.html#a6047a733b3cd7290839173ce5bfccef8", null ],
+    [ "SetActiveLayer", "class_paint_texture.html#a2c4f33ef1297d316faec298c16ce91d1", null ],
+    [ "GetActive", "class_paint_texture.html#a549a378dec0b5bd160f91b28acac66aa", null ],
+    [ "GetLinkLayers", "class_paint_texture.html#a81ea92c56cf5f8717add5532ecb6fe4c", null ],
+    [ "SetColorMode", "class_paint_texture.html#add657061585442f40101e6901552cbf6", null ],
+    [ "GetFilename", "class_paint_texture.html#aa1683a49da815027c1a9de34497b62b9", null ],
+    [ "GetLayerCount", "class_paint_texture.html#af1f12899b58d9b3ccf3f624a9576a8a0", null ],
+    [ "GetAlphaCount", "class_paint_texture.html#a030fa81ba7eb7e8e6bd9202dbf9e83d2", null ],
+    [ "GetPaintTextureHead", "class_paint_texture.html#a3a8fac76636cd44e5ea4d2a35ef22e53", null ],
+    [ "CreateNewTexture", "class_paint_texture.html#ab80fe828ff352b04b05f1e2836262c81", null ],
+    [ "GetTextureDefaults", "class_paint_texture.html#a49d3084e7f14278bf0f592618c691323", null ],
+    [ "GetPaintTextureOfBaseChannel", "class_paint_texture.html#abe701284b16596fff15da2648f520196", null ],
+    [ "SetSelected_Texture", "class_paint_texture.html#a78bcdefe8b5f4ce53749cef235b563db", null ],
+    [ "GetSelectedTexture", "class_paint_texture.html#ae31d709da06883356de8647db66909b4", null ],
+    [ "GetSelectedTexturePP", "class_paint_texture.html#a2eb5f460763c54e54705df6d9b1d2fa7", null ],
+    [ "SetColorProfile", "class_paint_texture.html#aacbb6c81fddd2cb0233ee97b6fa6d6db", null ],
+    [ "GetColorProfile", "class_paint_texture.html#ab73a1ec94e002800f94b9e97d3823937", null ]
+];

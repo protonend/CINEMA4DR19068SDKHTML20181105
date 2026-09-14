@@ -1,0 +1,27 @@
+var toolhaircomb_8h =
+[
+    [ "HAIR_TOOL_COMB_DIRECTION", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a1fef9b3e7e2e5b34e3158923ed024157", null ],
+    [ "HAIR_TOOL_COMB_STRENGTH", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a22089e39a6278aac5bd99ed166780a97", null ],
+    [ "HAIR_TOOL_COMB_CURVE", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3aa08fa624a03833d58cf1111091a7e11c", null ],
+    [ "HAIR_TOOL_COMB_DELETED_1", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a0ffaa7452ed1a5a8877fe76d42273016", null ],
+    [ "HAIR_TOOL_COMB_FROMROOT", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a5417fb2bcffd4c3d447170003fb87939", null ],
+    [ "HAIR_TOOL_COMB_WEIGHTED", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a2f968c9c8d91751655b56ae03a4dae09", null ],
+    [ "HAIR_TOOL_COMB_LIMIT_DISTANCE", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3ab6408d4cbd333dc5ca948db412e7dd6a", null ],
+    [ "HAIR_TOOL_COMB_DISTANCE", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3acee02107fc7360eeb0ebb1def0cf34a6", null ],
+    [ "HAIR_TOOL_COMB_WEIGHT", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a6b2dd4b75bf15b6fc269afbc4867bab7", null ],
+    [ "HAIR_TOOL_COMB_INTERSECT", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a47e6f54a231d40d7f76c37abff29fdf7", null ],
+    [ "HAIR_TOOL_COMB_SPLINE", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a7d9010fc9179a2ea627e2d1d8f111556", null ],
+    [ "HAIR_TOOL_COMB_SHADER", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a7c404dbf9866dd0d77c7e38602f9188e", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_CAMERA_X", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a51267d01076baf7ddc17b1e240e1ec5e", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_CAMERA_Y", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a343c11e7e368a64af69a49200e884532", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_CAMERA_Z", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a9f1da1fc005223e3a14deba5b4dc2b37", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_WORLD_X", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a61e01ba5a81a22ed158ef94286f2a07d", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_WORLD_Y", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3ac8c25d35b61f9d82e15c433f98e42ee4", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_WORLD_Z", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a4deed874d17fa400327348e0afafe012", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_LOCAL_X", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a5e3c942db3bf5b4bfbb255f0e24628fd", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_LOCAL_Y", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3ad5a7612073486afc8e6659bde6b56400", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_LOCAL_Z", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a80ee68aab36e314c15794d1d23fb0d31", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_SPLINE", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3a3d29e71fc3fa9b96eafcc12c4f2d351c", null ],
+    [ "HAIR_TOOL_COMB_DIRECTION_SHADER", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3aff130a713c8ab8dccb9015e77a8489e6", null ],
+    [ "HAIR_TOOL_COMB_DUMMY", "toolhaircomb_8h.html#a31e9bd4c09fd49e7fedb571b17a9c4b3acfa3f56d99c7c578478752bcfe42fd3e", null ]
+];

@@ -1,0 +1,28 @@
+var ocloud_8h =
+[
+    [ "SKY_CLOUD_MIX", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2aab45a3f02597c8021d4177f8db72307d", null ],
+    [ "SKY_CLOUD_GENERATOR_FLAG", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2aa9b666b4d9cc51c9f1ebead11db02e64", null ],
+    [ "SKY_CLOUD_OVERRIDE_GROUP", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2ac0521d4d1edd6ec53285bd3746a115b0", null ],
+    [ "SKY_CLOUD_FALLOFF", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a1caaae0593f310e453d83d1b8a04c429", null ],
+    [ "SKY_CLOUD_LUM_FALLOFF", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2ab2e25a57902b414f6ba184bd47544022", null ],
+    [ "SKY_CLOUD_COLOR", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a0886ac2d7aa7692d2bca6305c40615c8", null ],
+    [ "SKY_CLOUD_TRANS_FALLOFF", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a7e5b854972ce54fc453e61af7f5353eb", null ],
+    [ "SKY_CLOUD_ALTITUDE", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a0409c73909cc13c664a599f3b2002e9c", null ],
+    [ "SKY_CLOUD_HQ_LIGHTING", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a7d453f7ff44dc6f04d9b4bc68cd2158a", null ],
+    [ "SKY_CLOUD_OBJECT_FALLOFF", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2aeb66891e9ca907e9eef4cb5597ee2524", null ],
+    [ "SKY_CLOUD_OFFSET_DIST", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2ab39a42c73a617acda293e7b7c0c95ef4", null ],
+    [ "SKY_CLOUD_KEEP_SHAPE", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2ae5ab2939d68cc91f743bc68413d2b69d", null ],
+    [ "SKY_CLOUD_TYPE", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2aba493f06f2649747d0fea9c7a10598ae", null ],
+    [ "SKY_CLOUD_TYPE_STANDARD", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2abdfb757f46fadf54395c7d78eb81091f", null ],
+    [ "SKY_CLOUD_TYPE_ACPERL", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2add52b7f9e765ac5a8b440bd6c374b41c", null ],
+    [ "SKY_CLOUD_TYPE_ACLENTI", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a9091e840d778b3d4ef87465fc614e794", null ],
+    [ "SKY_CLOUD_TYPE_CBCAPINC", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a9f9fc68f09d386168cc4b32b0601a34e", null ],
+    [ "SKY_CLOUD_COVERAGE", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2aabd710a3ae165ea1ed7e6167aefa8b16", null ],
+    [ "SKY_CLOUD_CONTRAST", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a74e10ed56183251762246d08bbf9c456", null ],
+    [ "SKY_CLOUD_SCALE", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a6e4479962b5d0709920efc2249b5f798", null ],
+    [ "SKY_CLOUD_SIZE_RATIO", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a6db11a011e9b7e8d3d7912917a35d9ec", null ],
+    [ "SKY_CLOUD_GROOVE_DEPTH", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2ae616e8840f5e39b2c857b0d8e227418c", null ],
+    [ "SKY_CLOUD_SHAPE_STRENGTH", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2adfc46cdc234aea8a35a452112a9d3a04", null ],
+    [ "SKY_CLOUD_GRID_POINTS", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a78d8171f230aa684a740e2b395da62bd", null ],
+    [ "SKY_CLOUD_DUMMY", "ocloud_8h.html#a890034ffc30f381fc2a5dfda23ecf0f2a966eebe9ca9d08e67965b51f195ae6b3", null ]
+];

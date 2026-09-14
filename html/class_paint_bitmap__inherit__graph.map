@@ -1,0 +1,12 @@
+<map id="PaintBitmap" name="PaintBitmap">
+<area shape="rect" id="node6" href="$class_paint_layer.html" title="A class for paint layers. Can be any kind of layer (layer, layer set, etc.). " alt="" coords="159,379,243,405"/>
+<area shape="rect" id="node10" href="$class_paint_material.html" title="A class for paint materials. It represents a paintable material. " alt="" coords="267,379,366,405"/>
+<area shape="rect" id="node11" href="$class_paint_texture.html" title="A class for paint textures, can contain layers and may represent the channel of a material..." alt="" coords="391,379,485,405"/>
+<area shape="rect" id="node2" href="$class_base_list2_d.html" title="BaseList2D" alt="" coords="272,229,361,256"/>
+<area shape="rect" id="node3" href="$class_ge_list_node.html" title="Represents a C4DAtom that resides in a 4D list. " alt="" coords="271,155,362,181"/>
+<area shape="rect" id="node4" href="$class_c4_d_atom_goal.html" title="Dummy class for C4DAtom objects that can be pointed to by BaseLink objects. " alt="" coords="264,80,369,107"/>
+<area shape="rect" id="node5" href="$class_c4_d_atom.html" title="C4DAtom" alt="" coords="277,5,356,32"/>
+<area shape="rect" id="node7" href="$class_paint_layer_bmp.html" title="A class for layers with pixels. " alt="" coords="5,453,116,480"/>
+<area shape="rect" id="node8" href="$class_paint_layer_folder.html" title="A class for paint layer folders. " alt="" coords="141,453,261,480"/>
+<area shape="rect" id="node9" href="$class_paint_layer_mask.html" title="A class for paint layer masks. " alt="" coords="285,453,401,480"/>
+</map>

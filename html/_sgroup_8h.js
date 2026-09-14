@@ -1,0 +1,25 @@
+var _sgroup_8h =
+[
+    [ "SGROUP_NAME", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a11fa834c771440f53b55541afe5f6c53", null ],
+    [ "SGROUP_DEFAULT_LEASETIME_D", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a98e119e263e42ce012a120b099849b0a", null ],
+    [ "SGROUP_DEFAULT_LEASETIME_H", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a3babecaaf29b34e0aa9b7bf73bb9e587", null ],
+    [ "SGROUP_DEFAULT_LEASETIME_M", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a7e300a8ebcc8656d6bf399625f52625d", null ],
+    [ "SGROUP_DEFAULT_LEASETIME_TEXT", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a4c520d179bab4f560df0b072d42a9c87", null ],
+    [ "SGROUP_MAX_LEASETIME_D", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a3e04ca987f2dd60c0ff94cb52bd855fb", null ],
+    [ "SGROUP_MAX_LEASETIME_H", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a09bc51163130caa163d12c4433bd3b3d", null ],
+    [ "SGROUP_MAX_LEASETIME_M", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a26dbfab20326f056a8f8e76deaa4eca4", null ],
+    [ "SGROUP_MAX_LEASETIME_TEXT", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0afb6344b0419700c4dcab3065608cf368", null ],
+    [ "SGROUP_COLOR", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a5ed440441467a61116741507c53008ae", null ],
+    [ "SGROUP_NUMBERS", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0acef9dc43d4300fd4227d9cc47da8c911", null ],
+    [ "SGROUP_BLOCKED", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0adfaafd7d424ab1f08dbf496903fe7159", null ],
+    [ "SGROUP_JOIN_GROUP", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a0354b7eee9554fb22d92fc88f10ec8ed", null ],
+    [ "SGROUP_JOIN_MACHINE", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a3f2f779de8ca76481a591809aa5885b0", null ],
+    [ "SGROUP_JOIN_MACHINE_EXP", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0ad0c1804bd316a7c7aff41f0089d92c57", null ],
+    [ "SGROUP_JOIN_IP", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a487261439d59e8c9e7f12e0e6c5ec315", null ],
+    [ "SGROUP_JOIN_IP_EXP", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a28458ceac520429e9589009ec78eebfe", null ],
+    [ "SGROUP_JOIN_COMPUTER", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a92dfc7dc50fa800f25cdffe725eb60c8", null ],
+    [ "SGROUP_JOIN_COMPUTER_EXP", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a2add733cb3b425f54d1d3efec0719002", null ],
+    [ "SGROUP_JOIN_USER", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a91fa226c8e98489b0cb070dda81d3079", null ],
+    [ "SGROUP_JOIN_USER_EXP", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0a7de31384499fc4175bf55042184182e4", null ],
+    [ "SGROUP_", "_sgroup_8h.html#ae86ace3983718ffd25d7c14dcae389f0aea0fcfe6ed4427f518a39138fc1f007b", null ]
+];

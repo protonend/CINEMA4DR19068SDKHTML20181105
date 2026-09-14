@@ -1,0 +1,26 @@
+var odoodle_8h =
+[
+    [ "DOODLEOBJECT_GROUP_OPTIONS", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a0a2441151150e10e3377d7abe261fc14", null ],
+    [ "DOODLEOBJECT_SETBD", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976aff1cdedd2d8f7c3a27f16acaab229c45", null ],
+    [ "DOODLEOBJECT_BD", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a7266f9eb7ffffdcb920e8f7c6709e6c2", null ],
+    [ "DOODLEOBJECT_IMAGE", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a454fee54d4675ed5efe59ef71ec3cf04", null ],
+    [ "DOODLEOBJECT_ADDIMAGE", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a8b13e1a1bd8521cc12d253905fdeca07", null ],
+    [ "DOODLEOBJECT_DELIMAGE", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a292cf016666144d71cb8dc1702159661", null ],
+    [ "DOODLEOBJECT_CLEARFRAME", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a9761f2643f3a93d00e0c251fe065bc32", null ],
+    [ "DOODLEOBJECT_TITLE", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976aaa1e23f4d41e85ad1ec21df0304d00d7", null ],
+    [ "DOODLEOBJECT_BODY", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a250ae5749ea626f12d0349a2209a1ecb", null ],
+    [ "DOODLEOBJECT_GHOST_PREV", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a1c4583fdfd3f5b1447513b4b23d2fc83", null ],
+    [ "DOODLEOBJECT_GHOST_NEXT", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a6eb6ac6aee5408a40ce5c3978138a3d2", null ],
+    [ "DOODLEOBJECT_SIZE_X", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a02a6903b6ca47c7053abda50307737a6", null ],
+    [ "DOODLEOBJECT_SIZE_Y", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a75b80d2aff8adc175a9bf31bd5da5d1f", null ],
+    [ "DOODLEOBJECT_LOAD_BITMAP", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976aaa1323928c36d2a82637e8468b7309f8", null ],
+    [ "DOODLEOBJECT_REMOVE_UNUSED", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976aed50fa83efb3830261ff8d78f90c3799", null ],
+    [ "DOODLEOBJECT_EXPORT", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a823729f446ce5884f095423fbdfeca0e", null ],
+    [ "DOODLEOBJECT_IMPORT", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a42a0c9ce6b7c81ba9e1ad2fc4adbe130", null ],
+    [ "DOODLEOBJECT_CURRENTVIEW", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a8e51c39581fe81e48987ed0ca56dab16", null ],
+    [ "DOODLEOBJECT_SMOOTHVIEW", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976aa90d82f4f3ec510f739a64db1ebd889c", null ],
+    [ "DOODLEOBJECT_SAVECOMPRESSED", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a17822945cf82fefac09c08cd49d10fe3", null ],
+    [ "DOODLEOBJECT_EXPORT_FORMAT", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a3db40ae94c2912e324328beba9cab621", null ],
+    [ "DOODLEOBJECT_EXPORT_FORMAT_PNG", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976a8e24bb62feac0b9b735f2321b741e8b7", null ],
+    [ "DOODLEOBJECT_EXPORT_FORMAT_TIF", "odoodle_8h.html#a0c1ecda9d89211f9e670e20474e58976aee0e208cfd43461541445996c30ca010", null ]
+];

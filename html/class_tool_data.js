@@ -1,0 +1,27 @@
+var class_tool_data =
+[
+    [ "AllocDialog", "class_tool_data.html#a59c205df6a08cbc02689f94d511cbb08", null ],
+    [ "FreeDialog", "class_tool_data.html#aa26f8a55d26bbef46be4184a74076c88", null ],
+    [ "InitTool", "class_tool_data.html#abe2d293f16fc54c993cb639f5afbc762", null ],
+    [ "FreeTool", "class_tool_data.html#ae1026dfc8dedff2bcc1ae3703582df69", null ],
+    [ "MouseInput", "class_tool_data.html#af16990ab9064c67b93fc3037e8585b58", null ],
+    [ "KeyboardInput", "class_tool_data.html#a311775f27a78ee1a007cc0e72253bcb2", null ],
+    [ "Draw", "class_tool_data.html#abb482bcf7b5231b26c2b7a833b911b76", null ],
+    [ "DisplayControl", "class_tool_data.html#ad74381f88ca2c1796c6945dbf218a9f9", null ],
+    [ "InitDisplayControl", "class_tool_data.html#a49936cc221a51c9625ebea3330573ef7", null ],
+    [ "FreeDisplayControl", "class_tool_data.html#a02f2b266a89bdd2ea0ee9e64ac36ff24", null ],
+    [ "AllocSubDialog", "class_tool_data.html#ad1b78ea7f001b646d790bb03012218ab", null ],
+    [ "DoCommand", "class_tool_data.html#a10ff21b9e1b4c8a955dff2ee4562382b", null ],
+    [ "GetCursorInfo", "class_tool_data.html#a1fbaa0247cf1bdc484d8c2bce2d3c58c", null ],
+    [ "GetResourceSymbol", "class_tool_data.html#abf94dbbac1708a4c98345541ec601623", null ],
+    [ "GetState", "class_tool_data.html#a3e33085fa7615b4c1c8af01a2b743dc9", null ],
+    [ "InitDefaultSettings", "class_tool_data.html#a995a2f22c55c248baef0cce83dcfd5f7", null ],
+    [ "GetDDescription", "class_tool_data.html#a3418b09be284ba5fc65c352f4948bbfd", null ],
+    [ "GetDParameter", "class_tool_data.html#a41d0360391928a72f8830b90a6026e24", null ],
+    [ "SetDParameter", "class_tool_data.html#a47c2dde8dfad3d6a0f982bdcead73931", null ],
+    [ "GetDEnabling", "class_tool_data.html#a993060f4729a4bf7ca127705b94007aa", null ],
+    [ "TranslateDescID", "class_tool_data.html#ae9556c183eec9754d3acac9c60853490", null ],
+    [ "Message", "class_tool_data.html#ad4f3fd0e75f19d4a18de2029cdbe2f9c", null ],
+    [ "RegisterToolPlugin", "class_tool_data.html#a639eae701a2fff2f93bd9635257cf7d7", null ],
+    [ "RegisterPyToolPlugin", "class_tool_data.html#a4c14d43f9c63fa61482908073c468cca", null ]
+];

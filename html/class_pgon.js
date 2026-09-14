@@ -1,0 +1,25 @@
+var class_pgon =
+[
+    [ "CalcNormal", "class_pgon.html#a3c27b582d84b0ba9dd0ec95a12c44543", null ],
+    [ "GetMpRad", "class_pgon.html#a72f263f248da31ca9ad70251b37dc652", null ],
+    [ "GetCount", "class_pgon.html#a56343933c843646d06f734efe792bc5d", null ],
+    [ "GetEdge", "class_pgon.html#a0d08b648e928e73f3d32f12c235542ba", null ],
+    [ "ID", "class_pgon.html#a42e010ab56dee2132df6403914e73a3d", null ],
+    [ "State", "class_pgon.html#aa10fc15c8a802da9582ddc0bd6209582", null ],
+    [ "Edge", "class_pgon.html#a37eed762707fa53dd4272f26d2a13085", null ],
+    [ "EdgeIndex", "class_pgon.html#a7d86fb7318750e699d18c62c2d2501b1", null ],
+    [ "IsFirst", "class_pgon.html#af9303df7a688443f11ab5193e32d0ebc", null ],
+    [ "IsSegmentEnd", "class_pgon.html#a6c66ed9bdb4aa745d25ed19cfc792828", null ],
+    [ "GetIdentity", "class_pgon.html#a9dbeaa105070497e181139a1db5aa05a", null ],
+    [ "GetSegmentCount", "class_pgon.html#ae5df959dda07e63b9d116b5572aea85c", null ],
+    [ "GetSegmentLen", "class_pgon.html#af129684c37551159e342ef4d2c5a124e", null ],
+    [ "GetEdge", "class_pgon.html#a36dde03c8729876ab83fb6b4cf0fba79", null ],
+    [ "FindPolygon", "class_pgon.html#a0db38d5d637c5b2025046c1d1fb4ecb6", null ],
+    [ "GetEdgeState", "class_pgon.html#aff7bb7e88a8c20a25636798687a700ba", null ],
+    [ "GetPointCount", "class_pgon.html#affe92729433742f0fe63042ab40552cb", null ],
+    [ "GetPolygonCount", "class_pgon.html#a732e375aa498fcbf3dfb7b86c6067b1c", null ],
+    [ "UpdateStates", "class_pgon.html#a37a9635dd6447d97ef9557e207a5dea6", null ],
+    [ "m_Edge", "class_pgon.html#a9533c043702de624ebe6f090cb9c9c9c", null ],
+    [ "m_Count", "class_pgon.html#a2d37a514e7bb5d0ccec92e95a3e1ad2a", null ],
+    [ "m_CRC", "class_pgon.html#a88cf4d37189f7e5d77f92300faf52605", null ]
+];

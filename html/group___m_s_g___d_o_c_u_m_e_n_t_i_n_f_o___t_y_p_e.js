@@ -1,0 +1,26 @@
+var group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e =
+[
+    [ "MSG_DOCUMENTINFO_TYPE_SETACTIVE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga7e62ccf9ab054435e6e9b4eec28e06b4", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_LOAD", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga67351eb7959b0346fb549436511cc150", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_MERGE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga4fc0ff86d838b8902fdd12993c8cb580", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_BEFOREMERGE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga5a06b9d8cd86d694ef1032dc7c4b8f2d", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_SAVE_BEFORE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga83f9b6f7c285f92d5a437fb96de71ae7", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_SAVE_AFTER", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga25e004373341ba5517aa227f8f49a95a", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_SAVEPROJECT_BEFORE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga86ca8ae7761fa90162d575dadb27b0fd", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_SAVEPROJECT_AFTER", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gaef9e7fc14edd8846c8c98d6eb4185642", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_REMOVE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gafbef541832b00ff692b9b357b4513c83", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_TOOL_CHANGED", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga23d0f06a202e2f3d1937fb7748087a62", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_OBJECT_INSERT", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gabefc67b22fde562d9674823daf8b33e9", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_TAG_INSERT", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga5be23315874e4ab3c96301d1757424d8", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_MATERIAL_INSERT", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga5cbc198e95087c56dce297799bd99ccd", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_UNDO", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gaa5aa21bd36a5ca7b43d23b0b9b2f10b5", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_REDO", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga5d8e2beeac9fc32542f8948b60373208", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_PASTE", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga3ffadd86d99bfe574361bb806793d5ec", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_COPY", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga4fd689a6515e869cae4bc3ff2517327b", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_LOAD_XREFS", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gae3314950bbb6ee325a14512b71eb2e97", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_MERGE_XREFS", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gada30b6b8873f9bfb12f6cfc0d7246516", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_XREFS_IMPORTED", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga8f6c6c54ca3a77c56244d550ee07e54d", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_MAKEPROJECT", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gac6472adf8e88ec8ebea9ff12ebebdad8", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_SWAP_XREF", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#gabd56077af648d358f366c832ee82b9ce", null ],
+    [ "MSG_DOCUMENTINFO_TYPE_FLUSHCACHES", "group___m_s_g___d_o_c_u_m_e_n_t_i_n_f_o___t_y_p_e.html#ga28437d18dfade0698b2d938aa123dd46", null ]
+];

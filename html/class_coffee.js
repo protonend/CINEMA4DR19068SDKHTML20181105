@@ -1,0 +1,28 @@
+var class_coffee =
+[
+    [ "Coffee", "class_coffee.html#ae50c5fb0f8d353f5340f094d565f6f1c", null ],
+    [ "~Coffee", "class_coffee.html#acbe3fc1d9c787b21d31e38fe9930e2dc", null ],
+    [ "Alloc", "class_coffee.html#aeb7feaaebd62b8a170244701c648df84", null ],
+    [ "Free", "class_coffee.html#a8947b8427432525ba27aae24bc6568de", null ],
+    [ "GetGlobalClass", "class_coffee.html#a140bfa65d7e83b689f4e27fd295693d0", null ],
+    [ "AddGlobalClass", "class_coffee.html#a5f89941bbef19ae998db3dd85943f904", null ],
+    [ "AddGlobalSymbol", "class_coffee.html#a7a457c0d5968076bb87f4003af004325", null ],
+    [ "AddGlobalFunction", "class_coffee.html#a11aa2d33653e97fb118648f1dcecb543", null ],
+    [ "AddClassMember", "class_coffee.html#ad6875c502d23a79f148f2a883733f84a", null ],
+    [ "AddClassMethod", "class_coffee.html#a0f094bc1c0bfd38972fcbf3239ebf1e5", null ],
+    [ "AllocString", "class_coffee.html#af676ea44c988c3a9dce6e2fc6409574a", null ],
+    [ "NewObject", "class_coffee.html#a542816a39d41cd8f682a45b699081117", null ],
+    [ "NewArray", "class_coffee.html#ac9c89327b4dd447e71bbc78cedaccb52", null ],
+    [ "Wrongcnt", "class_coffee.html#a03b3398fe72e2586f809dc580f3b4ce4", null ],
+    [ "ErrCheckType", "class_coffee.html#a820b86a987ac857c70e61b9c0babf9db", null ],
+    [ "ErrCheckObjectType", "class_coffee.html#aaa12e5a83965d3cfca20c49586f304ea", null ],
+    [ "ErrCheckArgCount", "class_coffee.html#a468f606baa6507b0869ca158ff121aed", null ],
+    [ "SetError", "class_coffee.html#a515a96b0939c9366fa4a68f9ed172dca", null ],
+    [ "InstallErrorHook", "class_coffee.html#a70d7662babf38094ad6b6367c6421175", null ],
+    [ "GetType", "class_coffee.html#afb554e738bd499269791cb0635dc6113", null ],
+    [ "GetRootFile", "class_coffee.html#a16e4114a74fdd423c108be7066dd57fd", null ],
+    [ "SetRootFile", "class_coffee.html#ab987ec2781e368443d99069b5dc9e76e", null ],
+    [ "AllocDynamic", "class_coffee.html#a8e0fefa98dd3843cf8ac6b2509effa35", null ],
+    [ "AddInheritance", "class_coffee.html#afd73698adbb5592618d210993ea9e313", null ],
+    [ "CompileFile", "class_coffee.html#a7dbcbde4ce01e648bdd9c5c15e3e62fc", null ]
+];

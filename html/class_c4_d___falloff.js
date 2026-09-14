@@ -1,0 +1,28 @@
+var class_c4_d___falloff =
+[
+    [ "C4D_Falloff", "class_c4_d___falloff.html#a662c81bb2b14ce544268fb6170503790", null ],
+    [ "~C4D_Falloff", "class_c4_d___falloff.html#af61cbdd911f9b7705616b4d49a5b326c", null ],
+    [ "Alloc", "class_c4_d___falloff.html#ac16ee10cb79cb8c40492f6ac7e75cb38", null ],
+    [ "Free", "class_c4_d___falloff.html#a67beebee30991948adfe31e989b6b633", null ],
+    [ "GetContainerInstance", "class_c4_d___falloff.html#a6357c62d5c2d1dbd6bac7123c7d28097", null ],
+    [ "SetDirty", "class_c4_d___falloff.html#a703306b2aca1a79e3d0c6f67f79e4dcc", null ],
+    [ "GetDirty", "class_c4_d___falloff.html#a654b943569298cb43c80f617ed914500", null ],
+    [ "SetMg", "class_c4_d___falloff.html#a4d2601d8fe077eb94403fcae67375bda", null ],
+    [ "GetMg", "class_c4_d___falloff.html#abc0d83bab5bcb9cd2d0e878098afb8ae", null ],
+    [ "SetData", "class_c4_d___falloff.html#a3f07188f031f1d92e6c35e6e03864fd2", null ],
+    [ "GetData", "class_c4_d___falloff.html#aa29f012be6b3669bae1050afbcfd112e", null ],
+    [ "SetMode", "class_c4_d___falloff.html#a55d4f43fe09da1496b1f318fec1814ac", null ],
+    [ "GetMode", "class_c4_d___falloff.html#a23c5606a17f7d0ad0dbb8683e3791dff", null ],
+    [ "SetTime", "class_c4_d___falloff.html#a01db4fb487ea9616af469eabee9d30c7", null ],
+    [ "InitFalloff", "class_c4_d___falloff.html#a1970d034a7d439a66d8bcc1b3c5d643d", null ],
+    [ "Sample", "class_c4_d___falloff.html#ad5d35e1965adcd02b9f8bd3ffb0affa7", null ],
+    [ "MultiSample", "class_c4_d___falloff.html#a81083a533a69432d9bd9f8cf686bd3cc", null ],
+    [ "AddFalloffToDescription", "class_c4_d___falloff.html#a30cc97fea685f57b175b78ab8a2506d8", null ],
+    [ "Message", "class_c4_d___falloff.html#a11cc5eb13b63034af1eebba1d86c81c4", null ],
+    [ "GetHandleCount", "class_c4_d___falloff.html#aaedeb8000648101d24b3bb40b7558d32", null ],
+    [ "GetHandle", "class_c4_d___falloff.html#a60b9fdd39c1e776e6d20beaf00323c18", null ],
+    [ "SetHandle", "class_c4_d___falloff.html#a658e2b97b1036984a2af8d5cbccb3c17", null ],
+    [ "Draw", "class_c4_d___falloff.html#a0e6d4e1901d3b924f4bd6888af0414b5", null ],
+    [ "CopyTo", "class_c4_d___falloff.html#ac20cb54b6aea6ce2b95896df11641208", null ],
+    [ "GetDEnabling", "class_c4_d___falloff.html#ae92f86d89e5cc8c695ca87df8a62468f", null ]
+];

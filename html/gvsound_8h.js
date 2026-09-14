@@ -1,0 +1,28 @@
+var gvsound_8h =
+[
+    [ "GV_SOUND_FILENAME", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba6b4b5887aa8c0bdd5076326ac51258d7", null ],
+    [ "GV_SOUND_PROBE", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba3b946a0d63b72d3a62fed9fa69b5b137", null ],
+    [ "GV_SOUND_TIME", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910bac29043d496c1c431e9cc8d7435761241", null ],
+    [ "GV_SOUND_SAMPLE", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba541e3c386cb0e89355e2a8f9c2651f01", null ],
+    [ "GV_SOUND_PLAY", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba2b48856057238562e0980ebc5c5ba196", null ],
+    [ "GV_SOUND_OUTPUT_LEFT", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910baa1b224a79dca6200cdfb8d4090a40c33", null ],
+    [ "GV_SOUND_OUTPUT_RIGHT", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910baf0f43b8c9c3037ad014f048143c096d7", null ],
+    [ "GV_SOUND_LENGTH", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba1e88e1a964915959afcac50d893ed22c", null ],
+    [ "GV_SOUND_SAMPLES", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba63ac1f95fa449ef9723bcf1ab58a4f21", null ],
+    [ "GV_SOUND_FFT_RES", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910baf4850ccd88c67f48a94faa81a4cbb2e2", null ],
+    [ "GV_SOUND_FFT_BIN", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba22e9fb2c75650467fc56dc2708dbf091", null ],
+    [ "GV_SOUND_FFT_BIN_LEFT", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910bac047770c27d072dc188653ea83d1bab8", null ],
+    [ "GV_SOUND_FFT_BIN_RIGHT", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba16cd2c7d46111f78f8fcc6bdbaf2b695", null ],
+    [ "GV_SOUND_FFT_RES_4", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba5812fced80b0fde056a6d28edd8da9d9", null ],
+    [ "GV_SOUND_FFT_RES_8", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba8b5e9fc6af658deb39bb006114d00b9b", null ],
+    [ "GV_SOUND_FFT_RES_16", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba6301e2f44b28424df8e136e01a4414d9", null ],
+    [ "GV_SOUND_FFT_RES_32", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba1b28437601b2f24b88379857a73eb03d", null ],
+    [ "GV_SOUND_FFT_RES_64", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba0eb890da9df4049a8b9abdffb6fb418f", null ],
+    [ "GV_SOUND_FFT_RES_128", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910bafc279640ad2a8a63cacab3df214093db", null ],
+    [ "GV_SOUND_FFT_RES_256", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910bac174170c0fa1af2f5d5108e579dbad9f", null ],
+    [ "GV_SOUND_FFT_RES_512", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910bacfddd61a6375a0e6d6f264725f28be56", null ],
+    [ "GV_SOUND_FFT_RES_1024", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910babf18e51e5faf1d97e24f03c233095ab6", null ],
+    [ "GV_SOUND_FFT_RES_2048", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba1674ad72c8d6bc531624b888778685cf", null ],
+    [ "GV_SOUND_FFT_RES_4096", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba5ac1a4c32d14dc0f9cf1824fdd2a3a9a", null ],
+    [ "GV_SOUND_FFT_RES_8192", "gvsound_8h.html#ab59c1bec446b10af208f977a871d910ba9e6c751ab92d05351c0752e926fe297f", null ]
+];

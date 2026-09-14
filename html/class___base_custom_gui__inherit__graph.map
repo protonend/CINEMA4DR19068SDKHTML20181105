@@ -1,0 +1,50 @@
+<map id="_BaseCustomGui" name="_BaseCustomGui">
+<area shape="rect" id="node2" href="$class_base_custom_gui.html" title="The base class for custom GUIs. " alt="" coords="193,5,368,32"/>
+<area shape="rect" id="node3" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000469 \&gt;" alt="" coords="185,56,376,83"/>
+<area shape="rect" id="node5" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000475 \&gt;" alt="" coords="185,107,376,133"/>
+<area shape="rect" id="node7" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000478 \&gt;" alt="" coords="185,157,376,184"/>
+<area shape="rect" id="node9" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000479 \&gt;" alt="" coords="185,208,376,235"/>
+<area shape="rect" id="node11" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000480 \&gt;" alt="" coords="185,259,376,285"/>
+<area shape="rect" id="node13" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000484 \&gt;" alt="" coords="185,309,376,336"/>
+<area shape="rect" id="node15" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000485 \&gt;" alt="" coords="185,360,376,387"/>
+<area shape="rect" id="node17" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000495 \&gt;" alt="" coords="185,411,376,437"/>
+<area shape="rect" id="node19" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1000996 \&gt;" alt="" coords="185,461,376,488"/>
+<area shape="rect" id="node21" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1001066 \&gt;" alt="" coords="185,512,376,539"/>
+<area shape="rect" id="node23" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009059 \&gt;" alt="" coords="185,563,376,589"/>
+<area shape="rect" id="node25" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009180 \&gt;" alt="" coords="185,613,376,640"/>
+<area shape="rect" id="node27" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009290 \&gt;" alt="" coords="185,664,376,691"/>
+<area shape="rect" id="node29" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009364 \&gt;" alt="" coords="185,715,376,741"/>
+<area shape="rect" id="node31" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009371 \&gt;" alt="" coords="185,765,376,792"/>
+<area shape="rect" id="node33" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009383 \&gt;" alt="" coords="185,816,376,843"/>
+<area shape="rect" id="node35" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1009415 \&gt;" alt="" coords="185,867,376,893"/>
+<area shape="rect" id="node37" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1011148 \&gt;" alt="" coords="185,917,376,944"/>
+<area shape="rect" id="node38" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1011152 \&gt;" alt="" coords="185,968,376,995"/>
+<area shape="rect" id="node39" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1022263 \&gt;" alt="" coords="185,1019,376,1045"/>
+<area shape="rect" id="node40" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 1028640 \&gt;" alt="" coords="185,1069,376,1096"/>
+<area shape="rect" id="node41" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 200000026 \&gt;" alt="" coords="179,1120,383,1147"/>
+<area shape="rect" id="node42" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 200000043 \&gt;" alt="" coords="179,1171,383,1197"/>
+<area shape="rect" id="node43" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 200000101 \&gt;" alt="" coords="179,1221,383,1248"/>
+<area shape="rect" id="node44" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 200000114 \&gt;" alt="" coords="179,1272,383,1299"/>
+<area shape="rect" id="node45" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 200000247 \&gt;" alt="" coords="179,1323,383,1349"/>
+<area shape="rect" id="node46" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 200000274 \&gt;" alt="" coords="179,1373,383,1400"/>
+<area shape="rect" id="node47" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 440000256 \&gt;" alt="" coords="179,1424,383,1451"/>
+<area shape="rect" id="node48" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; 450000130 \&gt;" alt="" coords="179,1475,383,1501"/>
+<area shape="rect" id="node49" href="$class_base_custom_gui.html" title="BaseCustomGui\&lt; CUSTOMGUI\l_RANGE \&gt;" alt="" coords="177,1526,384,1567"/>
+<area shape="rect" id="node4" href="$class_description_custom_gui.html" title="DescriptionCustomGui" alt="" coords="457,56,609,83"/>
+<area shape="rect" id="node6" href="$class_tree_view_custom_gui.html" title="TreeViewCustomGui" alt="" coords="463,107,603,133"/>
+<area shape="rect" id="node8" href="$class_filename_custom_gui.html" title="FilenameCustomGui" alt="" coords="463,157,603,184"/>
+<area shape="rect" id="node10" href="$class_bitmap_button_custom_gui.html" title="BitmapButtonCustomGui" alt="" coords="449,208,616,235"/>
+<area shape="rect" id="node12" href="$class_gradient_custom_gui.html" title="GradientCustomGui" alt="" coords="465,259,601,285"/>
+<area shape="rect" id="node14" href="$class_texturename_custom_gui.html" title="Texture name custom GUI (CUSTOMGUI_TEXTURENAME). " alt="" coords="451,309,614,336"/>
+<area shape="rect" id="node16" href="$class_description_property_custom_gui.html" title="DescriptionPropertyCustomGui" alt="" coords="432,360,633,387"/>
+<area shape="rect" id="node18" href="$class_quick_tab_custom_gui.html" title="QuickTabCustomGui" alt="" coords="461,411,604,437"/>
+<area shape="rect" id="node20" href="$class_lens_glow_custom_gui.html" title="Lens Glow custom GUI (CUSTOMGUI_LENSGLOW) for use with the LensGlowStruct data type. " alt="" coords="461,461,605,488"/>
+<area shape="rect" id="node22" href="$class_tex_box_gui.html" title="TexBoxGui" alt="" coords="489,512,576,539"/>
+<area shape="rect" id="node24" href="$class_spline_custom_gui.html" title="SplineCustomGui" alt="" coords="471,563,594,589"/>
+<area shape="rect" id="node26" href="$class_hyper_link_custom_gui.html" title="HyperLinkCustomGui" alt="" coords="460,613,605,640"/>
+<area shape="rect" id="node28" href="$class_in_exclude_custom_gui.html" title="InExcludeCustomGui" alt="" coords="461,664,605,691"/>
+<area shape="rect" id="node30" href="$class_priority_custom_gui.html" title="PriorityCustomGui" alt="" coords="469,715,597,741"/>
+<area shape="rect" id="node32" href="$class_fontchooser_custom_gui.html" title="FontchooserCustomGui" alt="" coords="453,765,612,792"/>
+<area shape="rect" id="node34" href="$class_date_time_control.html" title="DateTimeControl" alt="" coords="473,816,592,843"/>
+<area shape="rect" id="node36" href="$class_link_box_gui.html" title="LinkBoxGui" alt="" coords="488,867,577,893"/>
+</map>

@@ -1,0 +1,36 @@
+var group___c_c_u_r_v_e =
+[
+    [ "CCURVE", "group___c_c_u_r_v_e.html#gad672baa099da5b562af3ac06555373f1", [
+      [ "CBPluginTypeImage", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a8fa43bc5fd8535b2eb21bf2a3ae70fb3", null ],
+      [ "CBPluginTypeMovie", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a25dc94ba8f2e409cd352fbeaedfa7c4f", null ],
+      [ "CBPluginTypeScene", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a26d59ad45408ed417cb7f807f4f429a5", null ],
+      [ "CBPluginTypeCategory", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a6b3267a00913b4d0e02c79646188d8c3", null ],
+      [ "CBPluginTypeCatalog", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a8178abaa12f936ae504d8ad577804abf", null ],
+      [ "CBPluginTypeUnknown", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13ada7a7bd9576a8e1e99fa8b664b1cfb80", null ],
+      [ "CBPluginTypeFolder", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a8c5fadb06c4607723183fbf9292f8202", null ],
+      [ "CBPluginTypeMaterial", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13af2464226b598a87f151a7c2c90825088", null ],
+      [ "CBPluginTypeDummy", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a459e811a6fb85de105a623c073b02bbe", null ],
+      [ "CBPluginTypeDefaults", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a765ef802960ac9a33ae8d6e33d165007", null ],
+      [ "CBPluginTypeFilePreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a20483cece362140dcffae6cbf7b6e3d5", null ],
+      [ "CBPluginTypeObjectPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a849fcbb83ba52555996633c1c2f695dd", null ],
+      [ "CBPluginTypeMaterialPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13ab41658735784b7899df17afb3f407565", null ],
+      [ "CBPluginTypeTagPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a33915ad68028b534f22a682ac944020b", null ],
+      [ "CBPluginTypeRenderDataPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a947fa597144bab64e627ed6f5181491e", null ],
+      [ "CBPluginTypeShaderPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a65b2420f62c3f1f10ec05c11d6388daa", null ],
+      [ "CBPluginTypeVideoPostPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a2d7da98dc76ef47d706a5a514aafb0cf", null ],
+      [ "CBPluginTypeXPressoPreset", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13a7bf2b4692668947b8877e6004ef7942a", null ],
+      [ "CBPluginTypePresetLibrary", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13ac91d0e2d8631a4d62ef6d20819415da4", null ],
+      [ "CBPluginTypeCatalogFile", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13ac7f1c75c3d55b598bc93f9f35513387a", null ],
+      [ "CBPluginTypeScriptFile", "group___c_b_plugin_type.html#gga39fca1837c5ce7715cbf571669660c13ac59121075f2036f7cffd2ddc5a3b3c9b", null ],
+      [ "CCURVE_CURVE", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1acf7f74ec084d3e5a8d2bb88093fb564f", null ],
+      [ "CCURVE_HLE_BASE", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1a6da16a5980b5c7576f8887a784a7de0e", null ],
+      [ "CCURVE_HLE_CURVE", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1a51533ad0655b8f1d18a4c17c6acb8732", null ],
+      [ "CCURVE_SS_CURVE", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1aea8198e3995ec3632ec4f44fa354df4a", null ],
+      [ "CCURVE_SS_CURVE2", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1a94b00c30521664448687559a70a604e9", null ],
+      [ "CCURVE_SS_CURVE3", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1a267b6ec7310e514bc8a77918c506162b", null ],
+      [ "CCURVE_SS_CURVE4", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1a3893df6f905de68534c903ea88026acd", null ],
+      [ "CCURVE_SS_CURVE5", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1ae49f4ee9ed21b9211a2f4c6825106154", null ],
+      [ "CCURVE_HLE_SCALE", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1af2a14dddd65751717b1530e941cf5f27", null ],
+      [ "CCURVE_HLE_MOVE", "group___c_c_u_r_v_e.html#ggad672baa099da5b562af3ac06555373f1aace94813f532762169c49095c8556c13", null ]
+    ] ]
+];

@@ -1,0 +1,5 @@
+<map id="SubDialog" name="SubDialog">
+<area shape="rect" id="node3" href="$classi_custom_gui.html" title="iCustomGui" alt="" coords="5,155,96,181"/>
+<area shape="rect" id="node4" href="$class_s_d_k_browser_preview_dialog.html" title="Inherit to create sub&#45;dialogs for SDKBrowserPluginInterfaceInfo::OpenPreviewDialog(). " alt="" coords="120,155,296,181"/>
+<area shape="rect" id="node2" href="$class_ge_dialog.html" title="GeDialog" alt="" coords="92,5,167,32"/>
+</map>

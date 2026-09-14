@@ -1,0 +1,26 @@
+var prefstake_8h =
+[
+    [ "PREF_TAKE_MAIN_GROUP", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a576c271e045c266c7796cc8fafef3b83", null ],
+    [ "PREF_TAKE_BASIC_GROUP", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1aa8f0b6e551757e3de1078a69d3667416", null ],
+    [ "PREF_TAKE_MAIN_AUTOTAKE", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1af68301b1866db47ad4e008cd45c7c16e", null ],
+    [ "PREF_TAKE_MANAGER_GROUP", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a9dcb2847724f283118c484d7214d86ee", null ],
+    [ "PREF_TAKE_MANAGER_SHOWATTRIBUTES", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1aa1f0f2f3f5374727ab4f4d65f88f92c0", null ],
+    [ "PREF_TAKE_MANAGER_SIDEATTIBUTE", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1ad2c988c1f0376fac56af1f2cb9676b96", null ],
+    [ "PREF_TAKE_MANAGER_TREEMODE", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a5f57ed089055ca16398922ed3559fd6a", null ],
+    [ "PREF_TAKE_MANAGER_TREEMODE_TAKE", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a6a790b835f89b0a0ce55f1c4cdad4403", null ],
+    [ "PREF_TAKE_MANAGER_TREEMODE_OVER", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1af257c058de08b3eca5c6d257add121a3", null ],
+    [ "PREF_TAKE_MANAGER_TREEMODE_DUAL", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a406fecd0747257eda4788863ea865eb8", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_GROUP", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1afc16d56f5adf5c11c88012bea31d7401", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_OBJ", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1aefc366dfcf80d2a5ec71feb85a9de351", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_TAG", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a1c76149439aa14266336d1aa0d674cc9", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_MAT", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1aa97b9816952de5c4fa7fa68a2b21d38b", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_SHD", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1afdad1f0616555eec0b8dc0602cd5e885", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_LAY", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a76dd44acbbaa949d3ea29097645ffac6", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_OTH", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a17f4228b9a305d3c70800610a29df0ff", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_VIS", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1afabe0a86ab59f74f69889ceaff9a9ac1", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_TRN", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a53709d4d396587fe8f0e968cf92329cd", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_PRM", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a88b8d99ee84f7708c572cda253ee010f", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_CAM", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a0193e0f86c0eba9ee15a33759f76cefb", null ],
+    [ "PREF_TAKE_DEFAULT_FILETR_RS", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1a54adb252c2366be30a556ad5ad1fb0e4", null ],
+    [ "PREF_PM_DUMMY", "prefstake_8h.html#a199cf6f9939f1a283724a6994b01fed1ae5f00e0ea188a23ced9bab39a1ab7996", null ]
+];

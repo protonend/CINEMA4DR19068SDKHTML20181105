@@ -1,0 +1,28 @@
+var class_kerning_data =
+[
+    [ "KerningData", "class_kerning_data.html#a14bfcb58acc8f735e218ad2d3c1095cf", null ],
+    [ "~KerningData", "class_kerning_data.html#a5483dcc0a172df3030d3ff0ce0f0b83b", null ],
+    [ "Alloc", "class_kerning_data.html#a19342b677aaf2b0ca13fa88227cf980c", null ],
+    [ "Free", "class_kerning_data.html#aa98d1da23df36248eb061108ff75bb98", null ],
+    [ "GetKerning", "class_kerning_data.html#a59acf1ac55fcbd223b5fea5815536dfc", null ],
+    [ "CalculateKerning", "class_kerning_data.html#a181d18571390c191660c4c39acda2b2e", null ],
+    [ "SetKerning", "class_kerning_data.html#a8e2a0b603d542012c2bc3c6649c781d9", null ],
+    [ "SetKerning", "class_kerning_data.html#ad704ade9d73a4eef2006ec347a1281c9", null ],
+    [ "SetKerning", "class_kerning_data.html#a20fc1e23a41269839eeb9c61dd90c3d0", null ],
+    [ "ResetKerning", "class_kerning_data.html#ae752016a9bfd0a1d16ddd26af10ded46", null ],
+    [ "ResetKerning", "class_kerning_data.html#a05abe73414631a0c922ed6a8dd274cc3", null ],
+    [ "Init", "class_kerning_data.html#ae9ed1fe84a4d9e657e2bf676bda29bdb", null ],
+    [ "Init", "class_kerning_data.html#a6fa3375441f3130f4da3bb2aaa26ebd5", null ],
+    [ "GetCount", "class_kerning_data.html#a56343933c843646d06f734efe792bc5d", null ],
+    [ "Clear", "class_kerning_data.html#aa71d36872f416feaa853788a7a7a7ef8", null ],
+    [ "CopyTo", "class_kerning_data.html#aca267ba363064200db296706199d28bf", null ],
+    [ "GetString", "class_kerning_data.html#a16c51629f2663d5a5b51d172a9b921e3", null ],
+    [ "SetSelectionStart", "class_kerning_data.html#ac12cda2c0fd4b5258e881c6f039ee422", null ],
+    [ "GetSelectionStart", "class_kerning_data.html#aee2d8e82b3fe630b626c07236515a3dd", null ],
+    [ "SetSelectionEnd", "class_kerning_data.html#aa71f2618bfeb67eeff00adb5418c6130", null ],
+    [ "GetSelectionEnd", "class_kerning_data.html#ad748399dda1ec45693295774e88176f3", null ],
+    [ "SetSelection", "class_kerning_data.html#a42556783ec578ef0fc2dca27048549ba", null ],
+    [ "GetSelectionLength", "class_kerning_data.html#a1f6e9f7496e06b076a04231c329b8a44", null ],
+    [ "GetEditmode", "class_kerning_data.html#a30c57c84b596f68b66a79940f3ed23cf", null ],
+    [ "SetEditmode", "class_kerning_data.html#a1a414aa5954ed31e79186fd7cee730e9", null ]
+];

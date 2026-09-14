@@ -1,0 +1,3 @@
+<map id="SnapPoint" name="SnapPoint">
+<area shape="rect" id="node2" href="$struct_snap_result.html" title="The final result that the user gets when calling SnapCore::Snap or SnapCore::Intersect. " alt="" coords="5,80,95,107"/>
+</map>
